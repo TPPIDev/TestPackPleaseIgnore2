@@ -1,0 +1,13 @@
+TODO:
+
+COFH OreGen - New ores, refining old ones.
+Dense Ores - Osmium.
+Iguana Tweaks/TiC - Special tweaking for TPPI.
+Open Computers - Recipes
+Gendustry - Recipes
+FMP - Multipart Compat
+Mekanism - Cardboard Box Config
+Pams/KitchenCraft - Replace Pam's w/ Kitchen Craft
+Add SMT/ttcore
+
+Every other mod - MOAR TWEAKING
