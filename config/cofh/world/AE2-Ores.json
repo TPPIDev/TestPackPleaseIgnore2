@@ -5,12 +5,12 @@
             {
                 "name": "appliedenergistics2:tile.OreQuartz",
                 "metadata": 0,
-                "weight": 90
+                "weight": 92
             },
             {
                 "name": "appliedenergistics2:tile.OreQuartzCharged",
                 "metadata": 0,
-                "weight": 10
+                "weight": 8
             }
         ],
         "clusterSize": 8,

@@ -1,6 +1,5 @@
 TODO:
 
-COFH OreGen - New ores, refining old ones.
 Dense Ores - Osmium.
 Iguana Tweaks/TiC - Special tweaking for TPPI.
 Open Computers - Recipes

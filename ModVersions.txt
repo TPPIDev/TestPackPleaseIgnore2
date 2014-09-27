@@ -16,6 +16,7 @@ Bibliocraft v1.8.1
 Bibliowoods BiomesOPlenty v1.8
 Bibliowoods Forestry v1.6
 Bibliowoods Natura v1.4
+Big Reactors v0.4.0rc9
 Binnies Mods v2.0-dev4
 Biomes O' Plenty v2.1.0.991
 Blood Magic v1.2.0Beta21
