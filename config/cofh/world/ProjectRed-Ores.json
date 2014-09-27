@@ -1,0 +1,59 @@
+{
+    "ruby": {
+        "template": "uniform",
+        "block": {
+            "name": "ProjRed|Exploration:projectred.exploration.ore",
+            "metadata": 0
+        },
+        "clusterSize": 7,
+        "numClusters": 3,
+        "minHeight": 17,
+        "maxHeight": 32,
+        "retrogen": "true",
+        "biomeRestriction": "none",
+        "biomes": [],
+        "dimensionRestriction": "blacklist",
+        "dimensions": [
+            -1,
+            1
+        ]
+    },
+    "sapphire": {
+        "template": "uniform",
+        "block": {
+            "name": "ProjRed|Exploration:projectred.exploration.ore",
+            "metadata": 1
+        },
+        "clusterSize": 7,
+        "numClusters": 3,
+        "minHeight": 33,
+        "maxHeight": 48,
+        "retrogen": "true",
+        "biomeRestriction": "none",
+        "biomes": [],
+        "dimensionRestriction": "blacklist",
+        "dimensions": [
+            -1,
+            1
+        ]
+    },
+    "peridot": {
+        "template": "uniform",
+        "block": {
+            "name": "ProjRed|Exploration:projectred.exploration.ore",
+            "metadata": 2
+        },
+        "clusterSize": 7,
+        "numClusters": 3,
+        "minHeight": 49,
+        "maxHeight": 64,
+        "retrogen": "true",
+        "biomeRestriction": "none",
+        "biomes": [],
+        "dimensionRestriction": "blacklist",
+        "dimensions": [
+            -1,
+            1
+        ]
+    }
+}

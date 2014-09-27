@@ -1,0 +1,21 @@
+{
+    "osmium": {
+        "template": "normal",
+        "block": {
+            "name": "Mekanism:OreBlock",
+            "metadata": 0
+        },
+        "clusterSize": 8,
+        "numClusters": 8,
+        "meanHeight": 16,
+        "maxVariance": 14,
+        "retrogen": "true",
+        "biomeRestriction": "none",
+        "biomes": [],
+        "dimensionRestriction": "blacklist",
+        "dimensions": [
+            -1,
+            1
+        ]
+    }
+}

@@ -1,0 +1,116 @@
+{
+    "ruby": {
+        "template": "uniform",
+        "block": {
+            "name": "bluepower:ruby_ore",
+            "metadata": 0
+        },
+        "clusterSize": 7,
+        "numClusters": 3,
+        "minHeight": 17,
+        "maxHeight": 32,
+        "retrogen": "true",
+        "biomeRestriction": "none",
+        "biomes": [],
+        "dimensionRestriction": "blacklist",
+        "dimensions": [
+            -1,
+            1
+        ]
+    },
+    "sapphire": {
+        "template": "uniform",
+        "block": {
+            "name": "bluepower:sapphire_ore",
+            "metadata": 0
+        },
+        "clusterSize": 7,
+        "numClusters": 3,
+        "minHeight": 33,
+        "maxHeight": 48,
+        "retrogen": "true",
+        "biomeRestriction": "none",
+        "biomes": [],
+        "dimensionRestriction": "blacklist",
+        "dimensions": [
+            -1,
+            1
+        ]
+    },
+    "amethyst": {
+        "template": "uniform",
+        "block": {
+            "name": "bluepower:amethyst_ore",
+            "metadata": 0
+        },
+        "clusterSize": 7,
+        "numClusters": 3,
+        "minHeight": 49,
+        "maxHeight": 64,
+        "retrogen": "true",
+        "biomeRestriction": "none",
+        "biomes": [],
+        "dimensionRestriction": "blacklist",
+        "dimensions": [
+            -1,
+            1
+        ]
+    },
+    "zinc": {
+        "template": "uniform",
+        "block": {
+            "name": "bluepower:zinc_ore",
+            "metadata": 0
+        },
+        "clusterSize": 8,
+        "numClusters": 14,
+        "minHeight": 32,
+        "maxHeight": 56,
+        "retrogen": "true",
+        "biomeRestriction": "none",
+        "biomes": [],
+        "dimensionRestriction": "blacklist",
+        "dimensions": [
+            -1,
+            1
+        ]
+    },
+    "tungsten": {
+        "template": "uniform",
+        "block": {
+            "name": "bluepower:tungsten_ore",
+            "metadata": 0
+        },
+        "clusterSize": 3,
+        "numClusters": 2,
+        "minHeight": 22,
+        "maxHeight": 44,
+        "retrogen": "true",
+        "biomeRestriction": "none",
+        "biomes": [],
+        "dimensionRestriction": "blacklist",
+        "dimensions": [
+            -1,
+            1
+        ]
+    },
+    "teslatite": {
+        "template": "normal",
+        "block": {
+            "name": "bluepower:teslatite_ore",
+            "metadata": 0
+        },
+        "clusterSize": 6,
+        "numClusters": 4,
+        "meanHeight": 10,
+        "maxVariance": 8,
+        "retrogen": "true",
+        "biomeRestriction": "none",
+        "biomes": [],
+        "dimensionRestriction": "blacklist",
+        "dimensions": [
+            -1,
+            1
+        ]
+    }
+}

@@ -1,0 +1,359 @@
+{
+    "sphalerite": {
+        "template": "uniform",
+        "block": {
+            "name": "ThermalTinkerer:Ore",
+            "metadata": 0
+        },
+        "clusterSize": 9,
+        "numClusters": 8,
+        "minHeight": 25,
+        "maxHeight": 65,
+        "retrogen": "true",
+        "biomeRestriction": "none",
+        "biomes": [
+            "all"
+        ],
+        "dimensionRestriction": "blacklist",
+        "dimensions": [
+            -1,
+            1
+        ]
+    },
+    "bismuthinite": {
+        "template": "uniform",
+        "block": [
+            {
+                "name": "ThermalTinkerer:Ore",
+                "metadata": 1,
+                "weight": 65
+            },
+            {
+                "name": "ThermalFoundation:Ore",
+                "metadata": 3,
+                "weight": 35
+            }
+        ],
+        "clusterSize": 12,
+        "numClusters": 7,
+        "minHeight": 15,
+        "maxHeight": 55,
+        "retrogen": "true",
+        "biomeRestriction": "none",
+        "biomes": [
+            "all"
+        ],
+        "dimensionRestriction": "blacklist",
+        "dimensions": [
+            -1,
+            1
+        ]
+    },
+    "pyrolusite": {
+        "template": "uniform",
+        "block": {
+            "name": "ThermalTinkerer:Ore",
+            "metadata": 2
+        },
+        "clusterSize": 8,
+        "numClusters": 9,
+        "minHeight": 25,
+        "maxHeight": 60,
+        "retrogen": "true",
+        "biomeRestriction": "none",
+        "biomes": [
+            "all"
+        ],
+        "dimensionRestriction": "blacklist",
+        "dimensions": [
+            -1,
+            1
+        ]
+    },
+    "braggitept": {
+        "template": "uniform",
+        "block": [
+            {
+                "name": "ThermalTinkerer:Ore",
+                "metadata": 3,
+                "weight": 90
+            },
+            {
+                "name": "ThermalFoundation:Ore",
+                "metadata": 5,
+                "weight": 10
+            }
+        ],
+        "clusterSize": 12,
+        "numClusters": 4,
+        "minHeight": 5,
+        "maxHeight": 35,
+        "retrogen": "true",
+        "biomeRestriction": "none",
+        "biomes": [
+            "all"
+        ],
+        "dimensionRestriction": "blacklist",
+        "dimensions": [
+            -1,
+            1
+        ]
+    },
+    "braggiteni": {
+        "template": "uniform",
+        "block": [
+            {
+                "name": "ThermalTinkerer:Ore",
+                "metadata": 3,
+                "weight": 80
+            },
+            {
+                "name": "ThermalFoundation:Ore",
+                "metadata": 4,
+                "weight": 20
+            }
+        ],
+        "clusterSize": 16,
+        "numClusters": 5,
+        "minHeight": 10,
+        "maxHeight": 40,
+        "retrogen": "true",
+        "biomeRestriction": "none",
+        "biomes": [
+            "all"
+        ],
+        "dimensionRestriction": "blacklist",
+        "dimensions": [
+            -1,
+            1
+        ]
+    },
+    "molybdenite": {
+        "template": "uniform",
+        "block": {
+            "name": "ThermalTinkerer:Ore",
+            "metadata": 4
+        },
+        "clusterSize": 8,
+        "numClusters": 6,
+        "minHeight": 15,
+        "maxHeight": 40,
+        "retrogen": "true",
+        "biomeRestriction": "none",
+        "biomes": [
+            "all"
+        ],
+        "dimensionRestriction": "blacklist",
+        "dimensions": [
+            -1,
+            1
+        ]
+    },
+    "cobaltite": {
+        "template": "uniform",
+        "block": [
+            {
+                "name": "ThermalTinkerer:Ore",
+                "metadata": 2,
+                "weight": 15
+            },
+            {
+                "name": "ThermalTinkerer:Ore",
+                "metadata": 5,
+                "weight": 70
+            },
+            {
+                "name": "ThermalTinkerer:Ore",
+                "metadata": 8,
+                "weight": 5
+            },
+            {
+                "name": "ThermalFoundation:Ore",
+                "metadata": 4,
+                "weight": 10
+            }
+        ],
+        "clusterSize": 32,
+        "numClusters": 6,
+        "minHeight": 10,
+        "maxHeight": 40,
+        "retrogen": "true",
+        "biomeRestriction": "none",
+        "biomes": [
+            "all"
+        ],
+        "dimensionRestriction": "blacklist",
+        "dimensions": [
+            -1,
+            1
+        ]
+    },
+    "wolframite": {
+        "template": "uniform",
+        "block": {
+            "name": "ThermalTinkerer:Ore",
+            "metadata": 6
+        },
+        "clusterSize": 4,
+        "numClusters": 2,
+        "minHeight": 5,
+        "maxHeight": 25,
+        "retrogen": "true",
+        "biomeRestriction": "none",
+        "biomes": [
+            "all"
+        ],
+        "dimensionRestriction": "blacklist",
+        "dimensions": [
+            -1,
+            1
+        ]
+    },
+    "bauxite": {
+        "template": "uniform",
+        "block": {
+            "name": "ThermalTinkerer:Ore",
+            "metadata": 7
+        },
+        "clusterSize": 20,
+        "numClusters": 5,
+        "minHeight": 25,
+        "maxHeight": 70,
+        "retrogen": "true",
+        "biomeRestriction": "none",
+        "biomes": [
+            "all"
+        ],
+        "dimensionRestriction": "blacklist",
+        "dimensions": [
+            -1,
+            1
+        ]
+    },
+    "chromite": {
+        "template": "uniform",
+        "block": {
+            "name": "ThermalTinkerer:Ore",
+            "metadata": 8
+        },
+        "clusterSize": 4,
+        "numClusters": 2,
+        "minHeight": 5,
+        "maxHeight": 20,
+        "retrogen": "true",
+        "biomeRestriction": "none",
+        "biomes": [
+            "all"
+        ],
+        "dimensionRestriction": "blacklist",
+        "dimensions": [
+            -1,
+            1
+        ]
+    },
+    "ilmenite": {
+        "template": "uniform",
+        "block": {
+            "name": "ThermalTinkerer:Ore",
+            "metadata": 9
+        },
+        "clusterSize": 4,
+        "numClusters": 2,
+        "minHeight": 5,
+        "maxHeight": 20,
+        "retrogen": "true",
+        "biomeRestriction": "none",
+        "biomes": [
+            "all"
+        ],
+        "dimensionRestriction": "blacklist",
+        "dimensions": [
+            -1,
+            1
+        ]
+    },
+    "magnetite": {
+        "template": "uniform",
+        "block": {
+            "name": "ThermalTinkerer:Ore",
+            "metadata": 10
+        },
+        "clusterSize": 12,
+        "numClusters": 8,
+        "minHeight": 5,
+        "maxHeight": 35,
+        "retrogen": "true",
+        "biomeRestriction": "none",
+        "biomes": [
+            "all"
+        ],
+        "dimensionRestriction": "blacklist",
+        "dimensions": [
+            -1,
+            1
+        ]
+    },
+    "dioptase": {
+        "template": "uniform",
+        "block": {
+            "name": "ThermalTinkerer:Ore",
+            "metadata": 11
+        },
+        "clusterSize": 4,
+        "numClusters": 4,
+        "minHeight": 7,
+        "maxHeight": 11,
+        "retrogen": "true",
+        "biomeRestriction": "none",
+        "biomes": [
+            "all"
+        ],
+        "dimensionRestriction": "blacklist",
+        "dimensions": [
+            -1,
+            1
+        ]
+    },
+    "pyrope": {
+        "template": "uniform",
+        "block": {
+            "name": "ThermalTinkerer:Ore",
+            "metadata": 6
+        },
+        "clusterSize": 4,
+        "numClusters": 400,
+        "minHeight": 5,
+        "maxHeight": 40,
+        "retrogen": "true",
+        "biomeRestriction": "whitelist",
+        "biomes": [
+            "HELL"
+        ],
+        "dimensionRestriction": "blacklist",
+        "dimensions": [
+            -1,
+            0
+        ]
+    },
+    "myuvil": {
+        "template": "uniform",
+        "block": {
+            "name": "ThermalTinkerer:Ore",
+            "metadata": 4
+        },
+        "clusterSize": 4,
+        "numClusters": 2,
+        "minHeight": 5,
+        "maxHeight": 20,
+        "retrogen": "true",
+        "biomeRestriction": "none",
+        "biomes": [
+            "hell"
+        ],
+        "dimensionRestriction": "blacklist",
+        "dimensions": [
+            -1,
+            1
+        ]
+    }
+}
