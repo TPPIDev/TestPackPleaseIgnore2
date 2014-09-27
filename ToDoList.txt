@@ -7,7 +7,6 @@ Open Computers - Recipes
 Gendustry - Recipes
 FMP - Multipart Compat
 Mekanism - Cardboard Box Config
-Pams/KitchenCraft - Replace Pam's w/ Kitchen Craft
-Add SMT/ttcore
+KitchenCraft - ADD ALL DA FOODS
 
 Every other mod - MOAR TWEAKING

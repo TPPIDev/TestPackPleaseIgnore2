@@ -10,6 +10,7 @@ Another One Bites the Dust 2 v2.2.4
 Apple Core v1.0.0
 Applied Energistics 2 rv1-stable-1
 Armor Status HUD v1.27
+Baubles v1.0.1.8
 Bdlib v1.4.4.22
 Bibliocraft v1.8.1
 Bibliowoods BiomesOPlenty v1.8
@@ -20,10 +21,12 @@ Biomes O' Plenty v2.1.0.991
 Blood Magic v1.2.0Beta21
 BluePower v0.1.754
 Botania v1.2-116
+BspkrsCore v6.12
 Buildcraft v6.0.18
 Carpenter's Blocks v3.3.0
 Chisel v1.5.7
 Code Chicken Core v1.0.3.26
+Code Chicken Lib v1.1.1.104
 COFH Core v3.0.0B6-32
 COFH Lib v1.0.0B6-26
 Cookie Core v1.3.0
@@ -39,6 +42,7 @@ ExtraCells v2.1.12b8
 ExtraTiC v1.0.3
 Extra Utilities v1.1.0k
 Factorization v0.8.88.1
+Forge MultiPart v1.1.0.307
 FlaxBeards Steam Power v0.26.2
 FLORA v1.0.5
 Forbidden Magic v0.52
@@ -58,6 +62,9 @@ INpureCore v1.0.0B1-1
 Inventory Tweaks v1.59-dev-152
 Iron Chests 2 v6.0.60.741
 JABBA v1.1.4
+KitchenCraft Foods v0.0.1-35
+KitchenCraft Machines v0.0.1-35
+Lib Sandstone v1.0.0
 Logistics Pipes v0.8.0.59
 Mantle v0.3.1
 Mekanism v7.1.0.92
@@ -81,7 +88,6 @@ Open Components v0.2.0.20
 Open Computers v1.3.4.63
 Open Eye v0.6
 Open Mods Lib v0.6-snapshot-224
-Pam's HarvestCraft v1.7.10b
 PneumaticCraft v1.2.7-13
 Progressive Automation v1.4.12
 Railcraft v0.3.2.0
@@ -97,18 +103,20 @@ Steves Carts 2 v2.0.0b18
 Steves Factory Manager vA92
 Steves Workshop v0.5.1
 Storage Drawers v1.1.4
+Super Massive Tech v0.2.0-alpha-91
 Thaumcraft 4 v4.2.0.1
 Thaumic Energistics v0.6.10b
 Thaumic Exploration v1.1-17
 Thaumic Tinkerer v2.5-158
 Thermal Expansion v4.0.0B5-13
 Thermal Foundation v1.0.0B3-8
-Tinkers Construct v1.6.0d40.1
+Tinkers Construct v1.7.0d3.1
 Tinkers Mechworks v0.2.9
 Tinkers Steelworks v1.0.5
 Tinkers Tooltips v1.1.11b
 Too Much Loot v3.0.1B22
 Translocators v1.1.1.12
+TTCore v0.0.2-16
 Twilight Forest v2.3.2
 Voxel Map v1.0
 Waila v1.5.4a
