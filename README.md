@@ -37,19 +37,21 @@ Developers
 ===============
 
 ###Current Team
-- _sneezing\_panda (/u/dudeedud4)_
+- sneezing\_panda
 
-- _esKaayY (/u/esKaayY)_
+- esKaayY
 
-- _Judge (/u/JDGBOLT)_
+- Judge
 
-- _Spyboticsguy (/u/spyboticsguy)_
+- Spyboticsguy
 
-- _timewarp (/u/timewarp)_
+- TehNut
 
-- _tterrag (/u/tterrag1098)_
+- timewarp
 
-- _wha-ha-ha (/u/wha-ha-ha)_
+- tterrag
+
+- wha-ha-ha
 
 
 Contributing
