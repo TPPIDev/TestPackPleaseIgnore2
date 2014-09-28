@@ -21,7 +21,7 @@ Binnies Mods v2.0-dev4
 Biomes O' Plenty v2.1.0.991
 Blood Magic v1.2.0Beta21
 BluePower v0.1.754
-Botania v1.2-116
+Botania v1.2-119
 BspkrsCore v6.12
 Buildcraft v6.0.18
 Carpenter's Blocks v3.3.0
