@@ -1,6 +1,6 @@
 TODO:
 
-Dense Ores - Osmium, Zinc
+Dense Ores - Osmium
 Open Computers - Recipes
 Gendustry - Recipes
 FMP - Multipart Compat

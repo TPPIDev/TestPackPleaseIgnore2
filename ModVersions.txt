@@ -78,7 +78,6 @@ Mobius Core v1.2.3
 ModTweaker v0.5d
 Modular Powersuits v0.11.0.171
 Morph v0.9.0
-Mouse Tweaks v2.4.4
 Natura v2.2.0-b1
 NEI Addons v1.12.2.9
 Nether Ores v2.3.0RC3-84
