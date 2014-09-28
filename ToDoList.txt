@@ -1,7 +1,6 @@
 TODO:
 
 Dense Ores - Osmium.
-Iguana Tweaks/TiC - Special tweaking for TPPI.
 Open Computers - Recipes
 Gendustry - Recipes
 FMP - Multipart Compat
