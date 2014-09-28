@@ -1,10 +1,11 @@
 TODO:
 
-Dense Ores - Osmium.
+Dense Ores - Osmium, Zinc
 Open Computers - Recipes
 Gendustry - Recipes
 FMP - Multipart Compat
 Mekanism - Cardboard Box Config
 KitchenCraft - ADD ALL DA FOODS
+Gregtech - *gulp*
 
 Every other mod - MOAR TWEAKING
