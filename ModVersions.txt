@@ -37,6 +37,7 @@ Dense Ores v1.4.2
 Dimensional Anchors v59.0.2
 Easy Crafting v2.0.0.12
 EiraIRC v1.7.48
+ElectroMagic Tools v1.1.4-2
 EnderIO v2.1.0beta.32
 Ender Storage v1.4.5.24
 ExtraCells v2.1.12b8
@@ -145,7 +146,6 @@ Opis v1.2.3
 **Mods Currently Waiting to be Updated**
 
 DartCraft
-ElectroMagicTools
 Infinity Bows
 ModpackTweaks/TPPITweaks/RecipeTweakingCore
 Modular Powersuits Addons
