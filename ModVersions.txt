@@ -10,6 +10,7 @@ Another One Bites the Dust 2 v2.2.4
 Apple Core v1.0.0
 Applied Energistics 2 rv1-stable-1
 Armor Status HUD v1.27
+Automagy v0.10.2
 Baubles v1.0.1.8
 Bdlib v1.4.4.22
 Bibliocraft v1.8.1
@@ -37,7 +38,7 @@ Dense Ores v1.4.2
 Dimensional Anchors v59.0.2
 Easy Crafting v2.0.0.12
 EiraIRC v1.7.48
-ElectroMagic Tools v1.1.4-2
+ElectroMagic Tools v2.0.0Alpha-21
 EnderIO v2.1.0beta.32
 Ender Storage v1.4.5.24
 ExtraCells v2.1.12b8
@@ -46,7 +47,6 @@ Extra Utilities v1.1.0k
 Factorization v0.8.88.1
 Forge MultiPart v1.1.0.307
 FlaxBeards Steam Power v0.26.2
-FLORA v1.0.5
 Forbidden Magic v0.52
 Forestry v3.0.0.149
 Gendustry v1.3.3.25
@@ -80,6 +80,7 @@ Modular Powersuits v0.11.0.171
 Morph v0.9.0
 Natura v2.2.0-b1
 NEI Addons v1.12.2.9
+NEI Plugins v1.1.0.10unofficial
 Nether Ores v2.3.0RC3-84
 Not Enough Items v1.0.3.56
 Numina v0.4.0.98
@@ -93,10 +94,11 @@ PneumaticCraft v1.2.7-13
 Progressive Automation v1.4.12
 Railcraft v0.3.2.0
 Random Things v2.1.4
-Redstone Armory v1.1preCUSTOM
+Redstone Armory v1.1-4
 Redstone Arsenal v1.1.0B4-10
+Refined Relocation v1.0.6e
 Reliquary v1.2.157
-Sanguimancy v1.1.2
+Sanguimancy v1.1.5-1
 ServerTools BACKUP v2.1.0.11
 ServerTools CORE v2.1.0.59
 Slick-Util
@@ -149,7 +151,6 @@ Infinity Bows
 ModpackTweaks/TPPITweaks/RecipeTweakingCore
 Modular Powersuits Addons
 Mystcraft
-NEI Plugins
 Plugins For Forestry
 Portal Gun
 Thaumic Reliquary
