@@ -1,5 +1,83 @@
 {"entries":
     [
-    
+    	{
+    		"item":"minecraft:carrot",
+    		"name":"foodCrop"
+    	},
+
+    	{
+    		"item":"minecraft:potato",
+    		"name":"foodCrop"
+    	},
+
+    	{
+    		"item":"minecraft:porkchop",
+    		"name":"foodRawMeat"
+    	},
+
+    	{
+    		"item":"minecraft:beef",
+    		"name":"foodRawMeat"
+    	},
+
+    	{
+    		"item":"minecraft:chicken",
+    		"name":"foodRawMeat"
+    	},
+
+    	{
+    		"item":"minecraft:cooked_porkchop",
+    		"name":"foodMeat"
+    	},
+
+    	{
+    		"item":"minecraft:cooked_beef",
+    		"name":"foodMeat"
+    	},
+
+    	{
+    		"item":"minecraft:cooked_chicken",
+    		"name":"foodMeat"
+    	},
+
+    	{
+    		"item":"minecraft:fish;0",
+    		"name":"foodRawFish"
+    	},
+
+    	{
+    		"item":"minecraft:fish;1",
+    		"name":"foodRawFish"
+    	},
+
+    	{
+    		"item":"minecraft:cooked_fished;0",
+    		"name":"foodCookedFish"
+    	},
+
+    	{
+    		"item":"minecraft:cooked_fished;1",
+    		"name":"foodCookedFish"
+    	},
+
+    	{
+    		"item":"minecraft:apple",
+    		"name":"foodFruit"
+    	},
+
+    	{
+    		"item":"minecraft:melon",
+    		"name":"foodFruit"
+    	},
+
+        {
+            "item":"minecraft:carrot",
+            "name":"foodVeggie"
+        },
+
+        {
+            "item":"minecraft:potato",
+            "name":"foodVeggie"
+        }
     ]
 }
