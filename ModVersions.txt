@@ -58,7 +58,7 @@ Iguana's Tinker Tweaks v2.0.2.68
 I'm Looking At Blood v1.1a
 Immibis Core v59.0.3
 Immibis' Microblocks v59.0.3
-Industrial Craft 2exp v2.2.644
+Industrial Craft 2exp v2.2.647
 Infernal Mobs v1.7.10
 INpureCore v1.0.0B1-1
 Inventory Tweaks v1.59-dev-152
