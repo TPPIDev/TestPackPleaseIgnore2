@@ -38,14 +38,15 @@ Dense Ores v1.4.2
 Dimensional Anchors v59.0.2
 Easy Crafting v2.0.0.12
 EiraIRC v1.7.48
-ElectroMagic Tools v2.0.0Alpha-21
+Electrical Age Beta 1.9-r43
+ElectroMagic Tools v2.0.0Alpha-25
 EnderIO v2.1.0.223
 Ender Storage v1.4.5.24
 ExtraCells v2.1.12b8
 ExtraTiC v1.0.3
 Extra Utilities v1.1.0k
 Factorization v0.8.88.1
-Forge MultiPart v1.1.0.307
+Forge MultiPart v1.1.0.310
 FlaxBeards Steam Power v0.26.2
 Forbidden Magic v0.52
 Forestry v3.0.0.149
@@ -63,25 +64,24 @@ Infernal Mobs v1.7.10
 INpureCore v1.0.0B1-1
 Inventory Tweaks v1.59-dev-152
 Iron Chests 2 v6.0.60.741
-JABBA v1.1.4
-KitchenCraft Foods v0.0.1-35
-KitchenCraft Machines v0.0.1-35
+JABBA v1.1.4a-dev5
+KitchenCraft Foods v0.0.1-38
+KitchenCraft Machines v0.0.1-38
 Lib Sandstone v1.0.0
-Logistics Pipes v0.8.0.59
-Mantle v0.3.1
+Logistics Pipes v0.8.0.66
+Mantle v0.3.2
 Mekanism v7.1.0.92
 Mekanism Generators v7.1.0.92
-Minecraft Loader v0.1.2
 MineFactory Reloaded v2.8.0RC3-591
 MineTweaker 3 v3.0.8B
 Mobius Core v1.2.3
-ModpackTweaks v1.2.0-19
+ModpackTweaks v1.2.0-20
 ModTweaker v0.5d
 Modular Powersuits v0.11.0.171
 Morph v0.9.0
 Natura v2.2.0-b1
 NEI Addons v1.12.2.9
-NEI Plugins v1.1.0.10unofficial
+NEI Plugins v1.1.0.10-unofficial
 Nether Ores v2.3.0RC3-84
 Not Enough Items v1.0.3.56
 Numina v0.4.0.98
@@ -96,7 +96,7 @@ Progressive Automation v1.4.12
 Railcraft v0.3.2.0
 Random Things v2.1.4
 RecipeTweakingCore v1.1.0-7
-Redstone Armory v1.1-4
+Redstone Armory v1.1-6
 Redstone Arsenal v1.1.0B4-10
 Refined Relocation v1.0.6e
 Reliquary v1.2.161
@@ -110,8 +110,8 @@ Steves Carts 2 v2.0.0b18
 Steves Factory Manager vA92
 Steves Workshop v0.5.1
 Storage Drawers v1.1.4
-Super Massive Tech v0.2.0-alpha-91
-Thaumcraft 4 v4.2.1.0
+Super Massive Tech v0.2.0-alpha-94
+Thaumcraft 4 v4.2.1.3
 Thaumic Energistics v0.6.10b
 Thaumic Exploration v1.1-17
 Thaumic Tinkerer v2.5-158
@@ -122,12 +122,12 @@ Tinkers Mechworks v0.2.9
 Tinkers Steelworks v1.0.5
 Tinkers Tooltips v1.1.11b
 Too Much Loot v3.0.1B22
-TPPI-Tweaks v1.2.0-105
+TPPI-Tweaks v1.2.0-109
 Translocators v1.1.1.12
-TTCore v0.0.2-16
+ttCore v0.0.2-20
 Twilight Forest v2.3.2
 Voxel Map v1.0
-Waila v1.5.4a
+Waila v1.5.5
 Waila Harvestability v1.1.0
 Witchery v0.20.6
 
@@ -152,7 +152,6 @@ Opis v1.2.3
 **Mods Currently Waiting to be Updated**
 
 DartCraft
-Infinity Bows
 Modular Powersuits Addons
 Mystcraft
 Plugins For Forestry
