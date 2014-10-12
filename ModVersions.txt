@@ -31,6 +31,7 @@ Code Chicken Core v1.0.3.26
 Code Chicken Lib v1.1.1.104
 COFH Core v3.0.0B6-32
 COFH Lib v1.0.0B6-26
+Computercraft v1.64
 Cookie Core v1.3.0
 Damage Indicators v3.2.0
 Dark Managerie vbeta-1.0
