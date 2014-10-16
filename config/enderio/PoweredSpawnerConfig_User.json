@@ -5,5 +5,7 @@
   },
   
   "_comment": "Adding a blackList section will complete replace the one in the core file"
-
+  "blackList": [
+    "VillagerGolem"
+  ]
 }
