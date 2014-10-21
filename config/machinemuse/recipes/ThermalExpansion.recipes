@@ -160,7 +160,7 @@
 	{
 		"ingredients" : [
 			[  { "oredictName" : "componentWiring" }, { "oredictName" : "ingotPlatinum" }, { "oredictName" : "componentWiring" } ],
-			[  { "unlocalizedName" : "item.redstonearmory.material.gelidenderium.ingot" }, { "unlocalizedName" : "item.thermalexpansion.capacitor.capacitorResonant" }, { "unlocalizedName" : "item.redstonearmory.material.gelidenderium.ingot" } ],
+			[  { "oredictName" : "ingotGelidEnderium" }, { "unlocalizedName" : "item.thermalexpansion.capacitor.capacitorResonant" }, { "oredictName" : "ingotGelidEnderium" } ],
 			[  { "oredictName" : "componentWiring" }, null, { "oredictName" : "componentWiring" } ]
 		],
 		"result" : {
@@ -201,7 +201,7 @@
 		"ingredients" : [
 			[  { "oredictName" : "gemCrystalFlux" }, { "oredictName" : "componentWiring" }, { "oredictName" : "gemCrystalFlux" } ],
 			[  { "oredictName" : "componentSolenoid" }, { "unlocalizedName" : "item.thermalexpansion.component.tesseractFrameFull" }, { "oredictName" : "componentSolenoid" } ],
-			[  null, { "unlocalizedName" : "item.redstonearmory.material.gelidenderium.ingot" }, null ]
+			[  null, { "oredictName" : "ingotGelidEnderium" }, null ]
 		],
 		"result" : {
 			"oredictName" : "componentFieldEmitter"

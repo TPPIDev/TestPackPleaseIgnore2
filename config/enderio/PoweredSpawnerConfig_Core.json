@@ -12,6 +12,7 @@
     "Witch" : "5",                                      
     "Slime" : "5",           
     "Enderman" : "10",
+    "SpecialMobs.SpecialEnderman" : "10",
     
     "LavaSlime" : "2",
     "PigZombie" : "5",
@@ -20,7 +21,7 @@
     
     "SnowMan" : "1",
     "VillagerGolem" : "10",
-    "Villager" : "10",
+    "Villager" : "1",
     
     "Wolf" : "1",
     "Ozelot" : "1",
@@ -32,7 +33,9 @@
     "Sheep" : "0.5",
     "Cow" : "0.5",
     "Pig" : "0.5",    
-    "MushroomCow" : "1"
+    "MushroomCow" : "1",
+    
+    "EnderIO.Enderminy" : "10"
   },
   
   "blackList": [
