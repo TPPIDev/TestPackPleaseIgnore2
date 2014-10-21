@@ -72,8 +72,8 @@ Thank you for your help!
 
 Current Modlist
 ===============
-Google Doc. Modlist:
+[WIP Modlist - Not final!](https://github.com/TPPI-Dev/TestPackPleaseIgnore2/blob/Development/ModVersions.txt)
 
 Changelog
 ===============
-
+No releases yet.
