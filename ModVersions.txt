@@ -11,7 +11,7 @@ Apple Core v1.0.0
 Applied Energistics 2 rv1-stable-1
 Armor Status HUD v1.27
 AsieLib v0.3.2
-Automagy v0.12.1
+Automagy v0.12.2
 Baubles v1.0.1.8
 Bdlib v1.4.5.24
 Bibliocraft v1.8.2
@@ -21,16 +21,14 @@ Bibliowoods Natura v1.4
 Big Reactors v0.4.0rc10
 Binnies Mods v2.0-dev5
 Biomes O' Plenty v2.1.0.1004
-Blood Magic v1.2.0
-BloodUtils v1.3.1
+Blood Magic v1.2.0b
 BluePower v0.1.766
-Botania v1.2-125
-BowInfinityFix rv0
+Botania v1.2-128
 BspkrsCore v6.12
 Buildcraft v6.0.18
 Carpenter's Blocks v3.3.1
 Chisel v1.5.7
-Code Chicken Core v1.0.3.26
+Code Chicken Core v1.0.4.29
 Code Chicken Lib v1.1.1.99
 COFH Core v3.0.0B6-32
 COFH Lib v1.0.0B6-26
@@ -45,18 +43,18 @@ EiraIRC v1.7.48
 Electrical Age Beta 1.9-r43
 ElectroMagic Tools v2.0.0Alpha-25
 Emotes v1.0.1
-EnderIO v2.1.0.247
+EnderIO v2.1.0.250
 Ender Storage v1.4.5.24
 ExtraCells v2.1.12b8
 ExtraTiC v1.0.3
 Extra Utilities v1.1.0k
 Factorization v0.8.88.2
 Forge MultiPart v1.1.0.310
+FlatSigns v2.0.0.17
 FlaxBeards Steam Power v0.26.4
-Forbidden Magic v0.52
+Forbidden Magic v0.53
 Forestry v3.0.0.149
 Funky Locomotion vbeta-2.0
-Gendustry v1.3.4.29
 GraviSuite v2.0.3
 Hats v4.0.1
 Hat Stand v4.0.0
@@ -67,14 +65,15 @@ Immibis Core v59.0.3
 Immibis' Microblocks v59.0.3
 Industrial Craft 2exp v2.2.648
 Infernal Mobs v1.7.10
+InfiniBows v1.3.0.20
 INpureCore v1.0.0B1-1
 Inventory Tweaks v1.59-dev-155
 Iron Chests 2 v6.0.60.741
 JABBA v1.1.4a-dev5
-KitchenCraft Foods v0.0.1-38
-KitchenCraft Machines v0.0.1-38
+KitchenCraft Foods v0.0.1-43
+KitchenCraft Machines v0.0.1-43
 Lib Sandstone v1.0.0
-Logistics Pipes v0.8.0.71
+Logistics Pipes v0.8.1.71
 Malisis Core v0.9.9
 Malisis Doors 1.2.1
 Mantle v0.3.2
@@ -101,13 +100,13 @@ Open Eye v0.6
 Open Mods Lib v0.6-snapshot-224
 PneumaticCraft v1.2.7-13
 Railcraft v0.3.3.0
-Random Things v2.1.8
+Random Things v2.1.6
 RecipeTweakingCore v1.1.0-7
-Redstone Armory v1.1-6
+Redstone Armory v1.1.8
 Redstone Arsenal v1.1.0B4-10
 Refined Relocation v1.0.6f
-Reliquary v1.2.167
-Sanguimancy v1.1.7-1
+Reliquary v1.2.200
+Sanguimancy v1.1.7-2
 ServerTools CORE v2.2.0.21
 ServerTools BACKUP v2.2.0.20
 ServerTools PERMISSION v2.1.0.11
@@ -116,7 +115,7 @@ Slick-Util
 Statues v2.1.4
 Steves Carts 2 v2.0.0b18
 Steves Factory Manager vA93
-Storage Drawers v1.1.4
+Storage Drawers v1.1.7
 Super Massive Tech v0.2.0-alpha-94
 Thaumcraft 4 v4.2.1.4
 Thaumic Energistics v0.7.0b
