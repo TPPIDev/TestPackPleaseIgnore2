@@ -120,6 +120,7 @@ Super Massive Tech v0.2.0-alpha-94
 Thaumcraft 4 v4.2.1.4
 Thaumic Energistics v0.7.0b
 Thaumic Exploration v1.1-22
+Thaumic NEI v1.5a
 Thaumic Tinkerer v2.5-158
 Thermal Expansion v4.0.0B5-13
 Thermal Foundation v1.0.0B3-8
