@@ -136,7 +136,6 @@ Twilight Forest v2.3.2
 Voxel Map v1.0
 Waila v1.5.5
 Waila Plugins v0.0.1-1
-WaslieCore v1.1
 Wawla v1.0.8
 Witchery v0.20.6
 
