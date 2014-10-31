@@ -135,6 +135,7 @@ Voxel Map v1.0
 Waila v1.5.5
 Waila Plugins v0.0.1-3
 Wawla v1.0.9
+Wireless Redstone v1.4.1.7
 Witchery v0.20.6
 
 
@@ -162,4 +163,3 @@ Modular Powersuits Addons
 Plugins For Forestry
 Portal Gun
 Thaumic Reliquary
-Wireless Redstone
