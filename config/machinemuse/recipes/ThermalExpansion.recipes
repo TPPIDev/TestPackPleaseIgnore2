@@ -22,7 +22,7 @@
 	{
 		"ingredients" : [
 			[ { "oredictName" : "componentWiring" }, { "oredictName" : "componentWiring" }, { "oredictName" : "componentWiring" } ],
-			[ { "unlocalizedName" : "item.redstonearmory.material.gelidenderium.gem" }, { "unlocalizedName" : "item.redstoneChipset.2" }, { "unlocalizedName" : "item.redstonearmory.material.gelidenderium.gem" } ],
+			[ { "oredictName" : "gemGelid" }, { "unlocalizedName" : "item.redstone_gold_chipset" }, { "oredictName" : "gemGelid" } ],
 			[ { "oredictName" : "ingotElectrumFlux" }, { "oredictName" : "ingotElectrumFlux" }, { "oredictName" : "ingotElectrumFlux" } ]
 		],
 		"result" : {
@@ -129,7 +129,7 @@
 	},
 	{
 		"ingredients" : [
-			[  { "id" : 35 }, { "id" : 35 }, { "id" : 35 } ],
+			[  { "oredictName" : "blockWool" }, { "oredictName" : "blockWool" }, { "oredictName" : "blockWool" } ],
 			[  { "unlocalizedName" : "item.string" }, null, { "unlocalizedName" : "item.string" } ],
 			[ null, { "unlocalizedName" : "item.thermalexpansion.material.pneumaticServo" }, null ]
 		],
@@ -140,7 +140,7 @@
 	{
 		"ingredients" : [
 			[  { "oredictName" : "componentWiring" }, { "oredictName" : "ingotInvar" }, { "oredictName" : "componentWiring" } ],
-			[  { "oredictName" : "ingotSilver" }, { "unlocalizedName" : "item.thermalexpansion.capacitor.capacitorHardened" }, { "oredictName" : "ingotSilver" } ],
+			[  { "oredictName" : "ingotSilver" }, { "unlocalizedName" : "item.thermalexpansion.capacitor.hardened" }, { "oredictName" : "ingotSilver" } ],
 			[  { "oredictName" : "componentWiring" }, null, { "oredictName" : "componentWiring" } ]
 		],
 		"result" : {
@@ -150,7 +150,7 @@
 	{
 		"ingredients" : [
 			[  { "oredictName" : "componentWiring" }, { "oredictName" : "ingotElectrum" }, { "oredictName" : "componentWiring" } ],
-			[  { "oredictName" : "ingotElectrumFlux" }, { "unlocalizedName" : "item.thermalexpansion.capacitor.capacitorReinforced" }, { "oredictName" : "ingotElectrumFlux" } ],
+			[  { "oredictName" : "ingotElectrumFlux" }, { "unlocalizedName" : "item.thermalexpansion.capacitor.reinforced" }, { "oredictName" : "ingotElectrumFlux" } ],
 			[  { "oredictName" : "componentWiring" }, null, { "oredictName" : "componentWiring" } ]
 		],
 		"result" : {
@@ -160,7 +160,7 @@
 	{
 		"ingredients" : [
 			[  { "oredictName" : "componentWiring" }, { "oredictName" : "ingotPlatinum" }, { "oredictName" : "componentWiring" } ],
-			[  { "oredictName" : "ingotGelidEnderium" }, { "unlocalizedName" : "item.thermalexpansion.capacitor.capacitorResonant" }, { "oredictName" : "ingotGelidEnderium" } ],
+			[  { "oredictName" : "ingotGelidEnderium" }, { "unlocalizedName" : "item.thermalexpansion.capacitor.resonant" }, { "oredictName" : "ingotGelidEnderium" } ],
 			[  { "oredictName" : "componentWiring" }, null, { "oredictName" : "componentWiring" } ]
 		],
 		"result" : {
@@ -200,7 +200,7 @@
 	{
 		"ingredients" : [
 			[  { "oredictName" : "gemCrystalFlux" }, { "oredictName" : "componentWiring" }, { "oredictName" : "gemCrystalFlux" } ],
-			[  { "oredictName" : "componentSolenoid" }, { "unlocalizedName" : "item.thermalexpansion.component.tesseractFrameFull" }, { "oredictName" : "componentSolenoid" } ],
+			[  { "oredictName" : "componentSolenoid" }, { "unlocalizedName" : "tile.thermalexpansion.frame.tesseractFull" }, { "oredictName" : "componentSolenoid" } ],
 			[  null, { "oredictName" : "ingotGelidEnderium" }, null ]
 		],
 		"result" : {
