@@ -32,7 +32,7 @@ Code Chicken Core v1.0.4.29
 Code Chicken Lib v1.1.1.99
 COFH Core v3.0.0B6-32
 COFH Lib v1.0.0B6-26
-Computercraft v1.64
+Computercraft v1.65
 Computronics v1.1.0
 Cookie Core v1.3.0
 Damage Indicators v3.2.0
@@ -43,7 +43,7 @@ EiraIRC v1.7.48
 Electrical Age Beta 1.9-r43
 ElectroMagic Tools v2.0.0Alpha-25
 Emotes v1.0.1
-EnderIO v2.1.0.250
+EnderIO v2.1.0.256
 Ender Storage v1.4.5.24
 ExtraCells v2.1.12b8
 ExtraTiC v1.0.3
@@ -54,7 +54,6 @@ FlatSigns v2.0.0.17
 FlaxBeards Steam Power v0.26.4
 Forbidden Magic v0.53
 Forestry v3.0.0.149
-Funky Locomotion vbeta-2.0
 GraviSuite v2.0.3
 Hats v4.0.1
 Hat Stand v4.0.0
@@ -93,19 +92,18 @@ Nether Ores v2.3.0RC3-84
 Not Enough Items v1.0.3.56
 Numina v0.4.0.98
 Obsidian Pressure Plates v3.0.0.18
-Open Blocks v1.3-snapshot-434
-Open Components v0.2.0.20
-Open Computers v1.3.4.69
+Open Blocks v1.3-snapshot-462
+Open Computers v1.4.0.7-rc1
 Open Eye v0.6
-Open Mods Lib v0.6-snapshot-224
+Open Mods Lib v0.6-snapshot-235
 PneumaticCraft v1.2.7-13
 Railcraft v0.3.3.0
 Random Things v2.1.6
 RecipeTweakingCore v1.1.0-7
-Redstone Armory v1.1.8
+Redstone Armory v1.1.12
 Redstone Arsenal v1.1.0B4-10
 Refined Relocation v1.0.6f
-Reliquary v1.2.200
+Reliquary v1.2.230
 Sanguimancy v1.1.7-2
 ServerTools CORE v2.2.0.21
 ServerTools BACKUP v2.2.0.20
@@ -116,7 +114,7 @@ Statues v2.1.4
 Steves Carts 2 v2.0.0b18
 Steves Factory Manager vA93
 Storage Drawers v1.1.7
-Super Massive Tech v0.2.0-alpha-94
+Super Massive Tech v0.2.0-alpha-100
 Thaumcraft 4 v4.2.1.4
 Thaumic Energistics v0.7.0b
 Thaumic Exploration v1.1-22
@@ -131,12 +129,12 @@ Tinkers Tooltips v1.1.11b
 Too Much Loot v3.0.1B22
 TPPI-Tweaks v1.2.0-109
 Translocators v1.1.1.12
-ttCore v0.0.2-24
+ttCore v0.0.3-28
 Twilight Forest v2.3.2
 Voxel Map v1.0
 Waila v1.5.5
-Waila Plugins v0.0.1-1
-Wawla v1.0.8
+Waila Plugins v0.0.1-3
+Wawla v1.0.9
 Witchery v0.20.6
 
 
