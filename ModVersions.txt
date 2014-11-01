@@ -120,6 +120,7 @@ Thaumic Energistics v0.7.0b
 Thaumic Exploration v1.1-22
 Thaumic NEI v1.5a
 Thaumic Tinkerer v2.5-158
+Thaumic Warden v1.1.1
 Thermal Expansion v4.0.0B5-13
 Thermal Foundation v1.0.0B3-8
 Tinkers Construct v1.7.1
