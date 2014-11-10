@@ -1,0 +1,73 @@
+# Configuration file
+
+arrow {
+    # Amount (in mB) of Energized Glowstone to create Arrow
+    I:ArrowLiquidAmount=250
+
+    # Amount of energy (RF) required to make Arrow
+    I:ArrowTransposeEnergy=1000
+}
+
+
+bow {
+    # Amount (in mB) of Energized Glowstone to create Bow
+    I:BowLiquidAmount=2000
+    B:BowTakesDamage=true
+
+    # Amount of energy (RF) required to make Bow
+    I:BowTransposeEnergy=8000
+}
+
+
+general {
+    # Chance for bonemeal to work (1 in n)
+    I:BoneMealChance=3
+
+    # True = Illuminated Saplings drop from leaves. False = Oak Saplings drop from leaves
+    B:IlluminatingSaplingDrop=true
+
+    # Chance that an illumination block will drop glowstone. Additional illuminated sides increase the chance. Math is as follows, the result being the amount of glowstone dropped:
+    #  floor(chance * sideCount) + an additional one if rand.nextFloat() < (chance - floor(chance))
+    #  [range: 0.0 ~ 2.0, default: 0.3334]
+    S:glowstoneChancePerSide=0.3334
+}
+
+
+integration {
+    # Thermal Expansion Compatability
+    B:ThermalExpansion=false
+}
+
+
+planks {
+    # Chance of getting glowstone dust from Sawmilling Illuminated Planks
+    I:GlowstoneChance=4
+
+    # Amount of energy (RF) required to Sawmill Illuminated Planks
+    I:SawmillEnergyAmount=1000
+}
+
+
+sapling {
+    # Amount (in mB) of Energized Glowstone to create Sapling
+    I:SaplingLiquidAmount=500
+
+    # Amount of energy (RF) required to make Sapling
+    I:SaplingTransposeEnergy=1000
+}
+
+
+thaumcraft {
+    B:enable=true
+
+    # Magical Illuminations spawn particles
+    B:illuminateParticles=true
+
+    # Amount of Aer to consume per magical cast
+    S:illuminatingFocusAerCost=0.5
+
+    # Amount of Aer to consume per magical cast
+    S:illuminatingFocusFireCost=0.5
+}
+
+
