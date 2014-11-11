@@ -106,7 +106,7 @@ Redstone Armory v1.1.12
 Redstone Arsenal v1.1.0B4-10
 Refined Relocation v1.0.6h
 Reliquary v1.2.236
-Sanguimancy v1.1.7-2 (To be removed)
+Sanguimancy v1.1.7-2
 ServerTools CORE v2.2.0.73
 ServerTools BACKUP v2.2.0.22
 ServerTools TELEPORT v2.2.0.11
