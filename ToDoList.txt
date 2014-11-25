@@ -7,5 +7,7 @@ FMP - Multipart Compat
 Mekanism - Cardboard Box Config
 KitchenCraft - ADD ALL DA FOODS
 Gregtech - *gulp*
+MFR - Autospawner Blacklist
+EnderIO - Spawner Blacklist
 
 Every other mod - MOAR TWEAKING
