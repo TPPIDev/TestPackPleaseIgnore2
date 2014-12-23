@@ -50,6 +50,7 @@ FlaxBeards Steam Power v0.27.2
 Forbidden Magic v0.551
 Forestry v3.3.0.6
 GraviSuite v2.0.3
+Hardcore Ender Expansion v1.6.7
 Hats v4.0.1
 Hat Stand v4.0.0 (To be removed)
 IC2 Nuclear Control v2.0.6a
@@ -67,6 +68,7 @@ KitchenCraft Foods v0.0.1-50
 KitchenCraft Machines v0.0.1-50
 Lib Sandstone v1.0.0
 Logistics Pipes v0.8.2.88
+Magic Bees v2.1.22
 Malisis Core v0.10.3
 Malisis Doors 1.3.2
 Mantle v0.3.2.187
@@ -147,10 +149,8 @@ Binnies Mods v2.0-dev5
 Electrical Age Beta 1.9-r43
 ElectroMagic Tools v2.0.0Alpha-28
 Gregtech v5.05.07
-Hardcore Ender Expansion v1.6.3
 Hardcore Questing Mod v4.2.1
 Illuminated Bows v1.7.0d
-Magic Bees v2.1.21
 Opis v1.2.3
 Thaumic NEI v0.1.2
 Twilight Forest v2.3.2
@@ -162,4 +162,3 @@ DartCraft
 Modular Powersuits Addons
 Plugins For Forestry
 Portal Gun
-Thaumic Reliquary
