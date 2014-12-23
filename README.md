@@ -8,7 +8,7 @@ We have a subreddit at http://www.reddit.com/r/TestPackPleaseIgnore/ . Thanks fo
 Information
 ===============
 
-Clients: This pack runs best with at least 2.5 GB memory, and 256 MB of permgen. Permgen is automatically set by the FTB launcher, but to set the permgen in a different launcher add the following java parameter: __-XX:PermSize=256M__
+Clients: This pack runs best with at least 2.5 GB memory, and 256 MB of permgen. Permgen is automatically set by both the FTB and Technic launcher, but to set the permgen in a different launcher add the following java parameter: __-XX:PermSize=256M__
 
 Servers: The server download comes with recommended Java arguments. Those were used when initially testing this pack before it released, and it worked great. You may need to allocate more RAM if you have lots of concurrent players online. Never try and allocate too much, Java hates that.
 
@@ -24,8 +24,9 @@ To open up an issue: click the issues tab on the right side of the page. Once th
 What does a good bug report look like?
 
 1. Steps to reproduce.
-2. If the game crashed, or if one of the developers ask you to, a copy of your log on some sort of paste website. I recommend http://paste.ubuntu.com/, to allow for maximum characters.
+2. If the game crashed, or if one of the developers ask you to, a copy of your log on some sort of paste website. We recommend http://paste.ubuntu.com/, to allow for maximum characters.
 3. Screenshots, if the issue warrants it and for clarification.
+4. Pack Version. We cannot stress this enough: Only report issues if they can be replicated with the LATEST pack version.
 
 Any questions/comments/concerns can be brought up on our IRC _[here](http://webchat.esper.net/?channels=TestPackPleaseIgnore&prompt=1/#btn)_. 
 
@@ -58,7 +59,7 @@ Contributing
 ===
 We love getting outside contributions, especially to our mod documentation system, however doing so can be a little complex for some.
 
-First a note: If you are going to contribute, please make your contributions to the ___Dev___ branch, not master. Switch this by using the dropdown box on the main repo page.
+First a note: If you are going to contribute, please make your contributions to the ___Development___ branch, not master. Switch this by using the dropdown box on the main repo page.
 
 Also, if you are just planning on making a one-line change, or anything that just alters one file, you can simply find the file and press "edit", and github will do the rest.
 
