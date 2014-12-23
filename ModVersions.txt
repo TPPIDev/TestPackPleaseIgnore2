@@ -148,6 +148,7 @@ ServerTools TELEPORTATION v2.1.0.7
 Binnies Mods v2.0-dev5
 Electrical Age Beta 1.9-r43
 ElectroMagic Tools v2.0.0Alpha-28
+Ender Zoo
 Gregtech v5.05.07
 Hardcore Questing Mod v4.2.1
 Illuminated Bows v1.7.0d
