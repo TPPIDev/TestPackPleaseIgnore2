@@ -1,0 +1,57 @@
+{"data":
+	[{
+		name: "ore.bauxite",
+		harvestLevel: 2,
+		toolType: "pickaxe",
+		oreDictNames:[ "oreBauxite" ]
+	},
+	
+	{
+		name: "ore.ruby",
+		harvestLevel: 2,
+		toolType: "pickaxe",
+		oreDictNames:[ "oreBauxite" ]
+	},
+	
+	{
+		name: "ore.tungsten",
+		harvestLevel: 3,
+		toolType: "pickaxe",
+		oreDictNames:[ "oreBauxite" ]
+	},
+	
+	{
+		name: "ore.iridium",
+		harvestLevel: 3,
+		toolType: "pickaxe",
+		oreDictNames:[ "oreBauxite" ]
+	},
+	
+	{
+		name: "ore.tantalite",
+		harvestLevel: 2,
+		toolType: "pickaxe",
+		oreDictNames:[ "oreBauxite" ]
+	},
+	
+	{
+		name: "ore.stibinite",
+		harvestLevel: 2,
+		toolType: "pickaxe",
+		oreDictNames:[ "oreBauxite" ]
+	},
+	
+	{
+		name: "ore.tetrahedrite",
+		harvestLevel: 2,
+		toolType: "pickaxe",
+		oreDictNames:[ "oreBauxite" ]
+	},
+	
+	{
+		name: "ore.cassiterite",
+		harvestLevel: 2,
+		toolType: "pickaxe",
+		oreDictNames:[ "oreBauxite" ]
+	}]
+}
