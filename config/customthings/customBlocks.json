@@ -2,6 +2,7 @@
 	[{
 		name: "ore.bauxite",
 		harvestLevel: 2,
+		hardness: 3F,
 		toolType: "pickaxe",
 		oreDictNames:[ "oreBauxite" ]
 	},
@@ -9,6 +10,7 @@
 	{
 		name: "ore.ruby",
 		harvestLevel: 2,
+		hardness: 3F,
 		toolType: "pickaxe",
 		oreDictNames:[ "oreRuby" ]
 	},
@@ -16,6 +18,7 @@
 	{
 		name: "ore.tungsten",
 		harvestLevel: 3,
+		hardness: 3F,
 		toolType: "pickaxe",
 		oreDictNames:[ "oreTungsten" ]
 	},
@@ -23,6 +26,7 @@
 	{
 		name: "ore.iridium",
 		harvestLevel: 3,
+		hardness: 3F,
 		toolType: "pickaxe",
 		oreDictNames:[ "oreIridium" ]
 	},
@@ -30,6 +34,7 @@
 	{
 		name: "ore.tantalite",
 		harvestLevel: 2,
+		hardness: 3F,
 		toolType: "pickaxe",
 		oreDictNames:[ "oreTantalite" ]
 	},
@@ -37,6 +42,7 @@
 	{
 		name: "ore.stibnite",
 		harvestLevel: 2,
+		hardness: 3F,
 		toolType: "pickaxe",
 		oreDictNames:[ "oreStibnite" ]
 	},
@@ -44,6 +50,7 @@
 	{
 		name: "ore.tetrahedrite",
 		harvestLevel: 2,
+		hardness: 3F,
 		toolType: "pickaxe",
 		oreDictNames:[ "oreTetrahedrite" ]
 	},
@@ -51,6 +58,7 @@
 	{
 		name: "ore.cassiterite",
 		harvestLevel: 2,
+		hardness: 3F,
 		toolType: "pickaxe",
 		oreDictNames:[ "oreCassiterite" ]
 	}]
