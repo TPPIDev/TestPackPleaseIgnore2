@@ -1,0 +1,154 @@
+{
+    "bauxite": {
+        "template": "uniform",
+        "block": {
+            "name": "customthings:block0",
+            "metadata": 0
+        },
+        "clusterSize": 12,
+        "numClusters": 2,
+        "minHeight": 28,
+        "maxHeight": 64,
+        "retrogen": "true",
+        "biomeRestriction": "none",
+        "biomes": [],
+        "dimensionRestriction": "blacklist",
+        "dimensions": [
+            -1,
+            1
+        ]
+    },
+    "ruby": {
+        "template": "uniform",
+        "block": {
+            "name": "customthings:block0",
+            "metadata": 1
+        },
+        "clusterSize": 1,
+        "numClusters": 8,
+        "minHeight": 0,
+        "maxHeight": 32,
+        "retrogen": "true",
+        "biomeRestriction": "none",
+        "biomes": [],
+        "dimensionRestriction": "blacklist",
+        "dimensions": [
+            -1,
+            1
+        ]
+    },
+    "tungsten": {
+        "template": "uniform",
+        "block": {
+            "name": "customthings:block0",
+            "metadata": 2
+        },
+        "clusterSize": 4,
+        "numClusters": 5,
+        "minHeight": 5,
+        "maxHeight": 14,
+        "retrogen": "true",
+        "biomeRestriction": "none",
+        "biomes": [],
+        "dimensionRestriction": "blacklist",
+        "dimensions": [
+            -1,
+            1
+        ]
+    },
+    "iridium": {
+        "template": "uniform",
+        "block": {
+            "name": "customthings:block0",
+            "metadata": 3
+        },
+        "clusterSize": 1,
+        "numClusters": 1,
+        "minHeight": 0,
+        "maxHeight": 64,
+        "retrogen": "true",
+        "biomeRestriction": "none",
+        "biomes": [],
+        "dimensionRestriction": "blacklist",
+        "dimensions": [
+            -1,
+            1
+        ]
+    },
+    "tantalite": {
+        "template": "uniform",
+        "block": {
+            "name": "customthings:block0",
+            "metadata": 4
+        },
+        "clusterSize": 3,
+        "numClusters": 5,
+        "minHeight": 0,
+        "maxHeight": 14,
+        "retrogen": "true",
+        "biomeRestriction": "none",
+        "biomes": [],
+        "dimensionRestriction": "blacklist",
+        "dimensions": [
+            -1,
+            1
+        ]
+    },
+    "stibinite": {
+        "template": "uniform",
+        "block": {
+            "name": "customthings:block0",
+            "metadata": 5
+        },
+        "clusterSize": 1,
+        "numClusters": 5,
+        "minHeight": 5,
+        "maxHeight": 14,
+        "retrogen": "true",
+        "biomeRestriction": "none",
+        "biomes": [],
+        "dimensionRestriction": "blacklist",
+        "dimensions": [
+            -1,
+            1
+        ]
+    },
+     "tetrahedrite": {
+        "template": "uniform",
+        "block": {
+            "name": "customthings:block0",
+            "metadata": 6
+        },
+        "clusterSize": 32,
+        "numClusters": 1,
+        "minHeight": 70,
+        "maxHeight": 120,
+        "retrogen": "true",
+        "biomeRestriction": "none",
+        "biomes": [],
+        "dimensionRestriction": "blacklist",
+        "dimensions": [
+            -1,
+            1
+        ]
+    },
+     "cassiterite": {
+        "template": "uniform",
+        "block": {
+            "name": "customthings:block0",
+            "metadata": 7
+        },
+        "clusterSize": 32,
+        "numClusters": 1,
+        "minHeight": 70,
+        "maxHeight": 120,
+        "retrogen": "true",
+        "biomeRestriction": "none",
+        "biomes": [],
+        "dimensionRestriction": "blacklist",
+        "dimensions": [
+            -1,
+            1
+        ]
+    }
+}
