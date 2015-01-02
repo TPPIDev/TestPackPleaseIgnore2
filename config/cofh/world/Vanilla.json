@@ -155,8 +155,10 @@
     },
     "clay": {
         "template": "uniform",
-        "block": "clay",
-        "material": "minecraft:stone",
+        "block": {
+            "name": "minecraft:clay",
+            "metadata": 0
+        },
         "clusterSize": 18,
         "numClusters": 8,
         "minHeight": 5,

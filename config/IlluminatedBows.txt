@@ -23,6 +23,9 @@ general {
     # Chance for bonemeal to work (1 in n)
     I:BoneMealChance=3
 
+    # If true, Illumination Cleanser takes damage when used
+    B:CleanserTakesDamage=true
+
     # True = Illuminated Saplings drop from leaves. False = Oak Saplings drop from leaves
     B:IlluminatingSaplingDrop=true
 
