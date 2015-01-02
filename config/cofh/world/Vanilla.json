@@ -165,7 +165,7 @@
         "maxHeight": 128,
         "retrogen": "true",
         "biomeRestriction": "none",
-        "biomes": []
+        "biomes": [],
         "dimensionRestriction": "blacklist",
         "dimensions": [
             -1,
