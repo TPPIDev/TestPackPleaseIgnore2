@@ -159,8 +159,8 @@
             "name": "minecraft:clay",
             "metadata": 0
         },
-        "clusterSize": 18,
-        "numClusters": 8,
+        "clusterSize": 13,
+        "numClusters": 7,
         "minHeight": 5,
         "maxHeight": 128,
         "retrogen": "true",
