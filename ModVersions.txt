@@ -37,7 +37,7 @@ Dark Managerie vbeta-2.0
 Dense Ores v1.5
 Dimensional Anchors v59.0.2
 EiraIRC v1.7.52
-Electrical Age Beta 1.9-r44
+Electrical Age Beta v1.9-r44
 Emotes v1.0.1
 EnderIO v2.2.6.313
 Ender Storage v1.4.5.27
