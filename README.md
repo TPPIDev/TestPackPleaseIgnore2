@@ -42,6 +42,8 @@ Developers
 
 - esKaayY
 
+- FakoTheGreat
+
 - Judge
 
 - Spyboticsguy
