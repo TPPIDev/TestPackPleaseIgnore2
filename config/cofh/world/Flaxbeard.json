@@ -1,0 +1,21 @@
+{
+    "zinc": {
+        "template": "uniform",
+        "block": {
+            "name": "Steamcraft:steamcraftOre",
+            "metadata": 1
+        },
+        "clusterSize": 6,
+        "numClusters": 3,
+        "minHeight": 35,
+        "maxHeight": 45,
+        "retrogen": "true",
+        "biomeRestriction": "none",
+        "biomes": [],
+        "dimensionRestriction": "blacklist",
+        "dimensions": [
+            -1,
+            1
+        ]
+    }
+}
