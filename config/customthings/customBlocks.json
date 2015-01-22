@@ -61,5 +61,12 @@
 		hardness: 3F,
 		toolType: "pickaxe",
 		oreDictNames:[ "oreCassiterite" ]
-	}]
+	},
+    {
+        name: "ore.monazite",
+        harvestLevel: 2,
+        hardness:3F,
+        toolType: "pickaxe",
+        oreDictNames:[ "oreMonazite" ]
+    }]
 }

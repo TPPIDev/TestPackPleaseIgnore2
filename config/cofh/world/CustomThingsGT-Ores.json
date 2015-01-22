@@ -150,5 +150,24 @@
             -1,
             1
         ]
+    },
+        "monazite": {
+        "template": "uniform",
+        "block": {
+            "name": "customthings:block0",
+            "metadata": 8
+        },
+        "clusterSize": 1,
+        "numClusters": 3,
+        "minHeight": 15,
+        "maxHeight": 25,
+        "retrogen": "true",
+        "biomeRestriction": "none",
+        "biomes": [],
+        "dimensionRestriction": "blacklist",
+        "dimensions": [
+            -1,
+            1
+        ]
     }
 }
