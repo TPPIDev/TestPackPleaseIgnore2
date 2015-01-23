@@ -1,5 +1,8 @@
 {"data":
 	[
-		
+		"input": [["gemCrystalFlux","componentWiring","gemCrystalFlux"],
+                  ["componentSolenoid", "ThermalExpansion:Frame;8", "componentSolenoid"],
+                  ["null","ingotGelidEnderium"]],
+        "output": "componentFieldEmitter"
 	]
 }

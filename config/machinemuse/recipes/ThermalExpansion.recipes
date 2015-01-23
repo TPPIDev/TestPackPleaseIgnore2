@@ -50,7 +50,7 @@
 	},
 	{
 		"ingredients" : [
-			[ { "oredictName" : "gemRuby" }, { "oredictName" : "gemPeridot" }, { "oredictName" : "gemSapphire" } ],
+			[ { "oredictName" : "gemRuby" }, { "oredictName" : "gemEmerald" }, { "oredictName" : "gemDiamond" } ],
 			[ { "unlocalizedName" : "item.redstonearsenal.material.rodObsidian" }, { "unlocalizedName" : "item.thermalexpansion.material.powerCoilGold" }, { "unlocalizedName" : "item.redstonearsenal.material.rodObsidian" } ],
 			[ { "oredictName" : "componentWiring" }, { "oredictName" : "componentWiring" }, { "oredictName" : "componentWiring" } ]
 		],
@@ -179,9 +179,9 @@
 	},
 	{
 		"ingredients" : [
-			[  null, { "oredictName" : "glassHardened" }, { "oredictName" : "glassHardened" } ],
-			[  { "oredictName" : "glassHardened" }, { "oredictName" : "glassHardened" }, { "oredictName" : "componentSolenoid" } ],
-			[  { "oredictName" : "glassHardened" }, null, null ]
+			[  null, { "oredictName" : "blockGlassHardened" }, { "oredictName" : "blockGlassHardened" } ],
+			[  { "oredictName" : "blockGlassHardened" }, { "oredictName" : "blockGlassHardened" }, { "oredictName" : "componentSolenoid" } ],
+			[  { "oredictName" : "blockGlassHardened" }, null, null ]
 		],
 		"result" : {
 			"oredictName" : "componentGliderWing"
