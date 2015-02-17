@@ -10,7 +10,7 @@ Information
 
 Clients: This pack runs best with at least 2.5 GB memory, and 256 MB of PermGen. PermGen is automatically set by both the FTB and Technic launcher. To set the PermGen in a different launcher add the following java parameter: __`-XX:PermSize=256M`__
 
-Servers: The server download comes with recommended Java arguments. The recommended arguments were what we use internally while testing te pack. You may need to allocate more RAM if you have a large number of concurrent players online at once. Never try and allocate too much, the JVM hates that.
+Servers: The server download comes with recommended Java arguments. The recommended arguments are what we use internally while testing te pack. You may need to allocate more RAM if you have a large number of concurrent players online at once. Never try and allocate too much, the JVM hates that.
 
 When you enter a new world, our book, like the Tinker’s Construct one, will show up in your inventory. ___Read it!___
 
