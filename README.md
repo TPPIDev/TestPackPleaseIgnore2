@@ -21,12 +21,18 @@ Submit ___all___ bug reports on this github.
 
 To open up an issue: click the issues tab on the right side of the page. Once there, click the “new issue” green button near the top right of the screen in the issues menu, and fill out the subject/title and the body paragraph. 
 
-What does a good bug report look like?
+What does a good issue report look like?
 
-1. Steps to reproduce.
-2. If the game crashed, or if one of the developers ask you to, a copy of your log on some sort of paste website. We recommend http://paste.ubuntu.com/, to allow for maximum characters.
-3. Screenshots, if the issue warrants it and for clarification.
-4. Pack Version. We cannot stress this enough: Only report issues if they can be replicated with the LATEST pack version.
+Bugs:
+1. Steps to reproduce to what the outcome should have been.
+2. Screenshots, if the issue warrants it and for clarification.
+3. Pack Version (including beta versions). We cannot stress this enough: Only report issues if they can be replicated with the LATEST pack version.
+
+Loading Troubles/Crashes/Server Disconnects
+1. Paste a copy of the client and/or the server's log on some sort of paste website. We recommend http://paste.ubuntu.com/, to allow for maximum characters.
+2. Pack Version (including beta versions). We cannot stress this enough: Only report issues if they can be replicated with the LATEST pack version.
+
+All bug and crash reports not adhering to these issue guidelines will be marked as invalid until fixed. There are far too many issues recently with too little or confusing information.
 
 Any questions/comments/concerns can be brought up on our IRC _[here](http://webchat.esper.net/?channels=TestPackPleaseIgnore&prompt=1/#btn)_. 
 
