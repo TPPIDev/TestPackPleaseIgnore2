@@ -45,24 +45,26 @@ Developers
 ===============
 
 ###Current Team
-- sneezing\_panda
 
 - esKaayY
 
 - FakoTheGreat
 
-- Judge
-
 - Spyboticsguy
 
 - TehNut
 
-- timewarp
-
 - tterrag
+
+- sneezing\_panda
+
+###Past Team Members
 
 - wha-ha-ha
 
+- Judge
+
+- timewarp
 
 Contributing
 ===
