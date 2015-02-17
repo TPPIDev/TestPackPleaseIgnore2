@@ -27,11 +27,11 @@ What does a good issue report look like?
 ### Bugs
 1. Steps to reproduce the problem and the outcome should have actually been.
 2. Screenshots, if the issue warrants it, and for clarification if it helps.
-3. Exact pack version. We cannot stress this enough: Only report issues if they can be replicated with the LATEST pack version.
+3. Exact pack version (including beta version). We cannot stress this enough: Only report issues if they can be replicated with the LATEST pack version.
 
 ### Loading Troubles/Crashes/Server Disconnects
 1. Paste a copy of the client and/or the server's log on some sort of paste website. We recommend http://paste.ubuntu.com/ as they allow larger pastes than most sites and minecraft logs can get quite large.
-2. Exact pack version. We cannot stress this enough: Only report issues if they can be replicated with the LATEST pack version.
+2. Exact pack version (including beta version). We cannot stress this enough: Only report issues if they can be replicated with the LATEST pack version.
 
 All bug and crash reports not adhering to these issue guidelines will be marked as invalid until fixed. We don't want to waste time by trying to figure out issues with too little or confusing information.
 
