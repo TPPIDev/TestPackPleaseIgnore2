@@ -2,4 +2,43 @@
 # Proper syntax is "NAME:META". Example (for stone):
 # stone:0
 
+# Vanilla
+minecraft:mob_spawner:*
+minecraft:wooden_door:*
+minecraft:iron_door:*
+minecraft:bed:0
+minecraft:bedrock:0
+
+# Thaumcraft
 Thaumcraft:blockAiry:0
+Thaumcraft:blockWarded:0
+Thaumcraft:blockCosmeticOpaque:2
+Thaumcraft:blockTable:*
+Thaumcraft:blockStoneDevice:2
+Thaumcraft:blockStoneDevice:7
+
+# Thaumic Horizons
+ThaumicHorizons:modMatrix:0
+
+# Thaumic Tinkerer
+ThaumicTinkerer:bedrockPortal:0
+
+# SuperMassiveTech
+superMassiveTech:blackHole:0
+superMassiveTech:invisibleLight:0
+
+# Applied Energistics 2
+appliedenergistics2:tile.BlockDrive:0
+
+# Carpenters Blocks
+CarpentersBlocks:blockCarpentersSafe:*
+CarpentersBlocks:blockCarpentersDoor:*
+CarpentersBlocks:blockCarpentersBed:*
+
+# Industrialcraft 2
+IC2:blockPersonal:*
+
+# Twilight Forest
+TwilightForest:tile.TFBossSpawner:*
+TwilightForest:tile.TFTowerDevice:*
+TwilightForest:tile.TFTowerTranslucent:*
