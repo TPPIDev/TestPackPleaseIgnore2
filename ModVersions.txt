@@ -2,58 +2,58 @@ Current Mod Versions
 
 NOTE: In no way is the modlist final. Do not ask about adding or removing mods until this list is internally stabilized. Also, some of these mods are here for pure experimentation for how they would fit in the pack.
 
-Forge 1236
+Forge 1291
 
 Advanced Repulsion Systems v59.0.2
 Advanced Solar Panels v3.5.1
 Another One Bites the Dust 2 v2.4.0
-Apple Core v1.0.2
-Applied Energistics 2 rv2-beta-7
+Apple Core v1.1.0
+Applied Energistics 2 rv2-beta-8
 Armor Status HUD v1.28
 AsieLib v0.3.8
-Automagy v0.18
+Automagy v0.19.3
 Baubles v1.0.1.10
 Bibliocraft v1.9.2
 Bibliowoods BiomesOPlenty v1.9
 Bibliowoods Forestry v1.7
 Bibliowoods Natura v1.5
 Big Reactors v0.4.1A2
-Binnie's Mods 2.0-pre5
-Biomes O' Plenty v2.1.0.1057
+Binnie's Mods 2.0-pre6b
+Biomes O' Plenty v2.1.0.1067
 Blood Magic v1.3.0b-3
-Botania v1.3-156
+Botania v1.3-163
 BspkrsCore v6.15
-Buildcraft v6.2.6
+Buildcraft v6.3.6
+Buildcraft Compat v6.3.1
 Carpenter's Blocks v3.3.4.2
-Chisel 2 vDEV-2.3.5.71061ca
+Chisel 2 vDEV-2.3.7
+Chisel Tones v1.0-1
 Code Chicken Core v1.0.4.35
 Code Chicken Lib v1.1.1.110
-COFH Core v3.0.0B9-40
-COFH Lib v1.0.0B8-34
+COFH Core v3.0.0RC1-140
+COFH Lib v1.0.0B9-115
 Computronics v1.3.4
 Cookie Core v1.3.1-5
-CustomThings v0.0.2-21
+CustomThings v0.0.2-22
 Damage Indicators v3.2.0
-Dark Managerie vbeta-2.0
 Dense Ores v1.5
 Dimensional Anchors v59.0.2
+Draconic Evolution v1.0.0e
 EiraIRC v1.7.56
-Electrical Age Beta v1.9-r45
-Emotes v1.0.1
-EnderIO v2.2.8.345
+Electrical Age Beta v1.9-r46
+EnderIO v2.2.8.351
 Ender Storage v1.4.5.27
-ExtraCells v2.2.53b82
+ExtraCells v2.2.54b84
 ExtraTiC v1.0.3
 Extra Utilities v1.2.1
-Factorization v0.8.88.7
-FastCraft v1.9 (via mod download GUI)
+FastCraft v1.19 (via mod download GUI)
 Forge MultiPart v1.1.0.320
 FlatSigns v2.1.0.19
 FlaxBeards Steam Power v0.27.3
 Forbidden Magic v0.552
 Forestry v3.4.0.7
+Forge NBTEdit v1.0.0test
 GraviSuite v2.0.3
-GregTech v5.07.06
 Hardcore Ender Expansion v1.7
 Hats v4.0.1
 IC2 Nuclear Control v2.1.2a
@@ -61,28 +61,28 @@ iChunUtil v4.1.3
 Illuminated Bows v1.7.1b
 Immibis Core v59.0.7
 Immibis' Microblocks v59.0.5
-Industrial Craft 2exp v2.2.671
+Industrial Craft 2exp v2.2.680
 Infernal Mobs v1.7.10
 InfiniBows v1.3.0.20
 INpureCore v1.0.0B7-19
 Inventory Tweaks v1.59-dev-156
 Iron Chests 2 v6.0.62.742
-JABBA v1.2.0a
-KitchenCraft-combo v0.0.1-52
+JABBA v1.2.1
+KitchenCraft-combo v0.0.1-57
 Lib Sandstone v1.0.0
-Logistics Pipes v0.8.2.89
+Logistics Pipes v0.8.3.100
 Magic Bees v2.1.22
 Malisis Core v0.10.5
 Malisis Doors 1.4.3
 Mantle v0.3.2.187
-Mekanism v7.1.2.157
-Mekanism Generators v7.1.2.157
-MineFactory Reloaded v2.8.0RC6-5
+Mekanism v7.1.2.TPPIEdition
+Mekanism Generators v7.1.2.175
+MineFactory Reloaded v2.8.0RC7.73
 MineTweaker 3 v3.0.9C
 MmmMmmMmmMmm v1.6
 Mobius Core v1.3.0dev9
 ModpackTweaks v1.2.0-23
-Modular Powersuits v0.11.0.176
+ModularArmour v0.0.10
 MoreChisels v1.0-8
 Morph v0.9.1
 Mystcraft 0.11.0.00
@@ -92,46 +92,44 @@ NEI Integration v1.0.5
 Nether Ores v2.3.0RC4-4
 Not Enough Codecs v0.3-13
 Not Enough Items v1.0.4.83
-Numina v0.4.0.100
-Obsidian Pressure Plates v3.0.0.18
-Open Blocks v1.3-snapshot-553
-Open Computers v1.4.7a.398-dev
+Open Blocks v1.3-snapshot-566
+Open Computers v1.5.0.433-dev
 Open Eye v0.6
-Open Mods Lib v0.6-snapshot-306
-PneumaticCraft v1.5.3
+Open Mods Lib v0.6-snapshot-315
 QuarryPlus v2.0.1
-Railcraft v9.4.0.0
+Railcraft v9.5.0.0
 Random Things v2.2.4
 RecipeTweakingCore v1.1.0-8
 Red Logic v59.1.9
-Redstone Armory v1.1-Custom
-Redstone Arsenal v1.1.0RC1-19
-Refined Relocation v1.0.7d
-Reliquary v1.2.256
-Sanguimancy v1.1.9Pre-20
+Redstone Armory v1.1-22
+Redstone Arsenal v1.1.0RC2-43
+Refined Relocation v1.0.7f
+Sanguimancy v1.1.9Pre-21
 ServerTools BACKUP v2.2.0.23
 ServerTools CORE v2.3.0.1
-Slick-Util
 Steves Carts 2 v2.0.0b18
 Steves Factory Manager vA93
-Storage Drawers v1.2.0
-Super Massive Tech v0.3.0-alpha-106
-Thaumcraft 4 v4.2.3.4
-Thaumic Energistics v0.8.8.4b-rv2
+Storage Drawers v1.2.2
+Super Massive Tech v0.3.0-alpha-109
+Thaumcraft 4 v4.2.3.5
+Thaumic Energistics v0.8.9.0b-rv2
 Thaumic Exploration v1.1-37
+Thaumic Horizons 1.0.3
 Thaumic NEIplugin v1.6a
 Thaumic Tinkerer v2.5-457
-Thermal Expansion v4.0.0B8-23
-Thermal Foundation v1.0.0RC1-13
-Tinkers Construct v1.8.2-877
-Tinkers Mechworks v0.2.12.95
-Tinkers Steelworks v1.1.0-5
+Thermal Dynamics v1.0.0RC1-69
+Thermal Expansion v4.0.0RC1-126
+Thermal Foundation v1.0.0RC2-54
+Tinkers Construct v1.8.2-891
+Tinkers Mechworks v0.2.13.96
+Tinkers Steelworks v1.1.0-6
 Tinkers Tooltips v1.2.1
-TPPI-Tweaks v1.2.0-112
+TPPI-Tweaks v1.2.0-113
 Translocators v1.1.1.14
-ttCore v0.1.0-61
+ttCore v0.1.0-67
+Twilight Forest v2.3.3
 Voxel Map v1.0
-Waila v1.5.8a
+Waila v1.5.9a
 Waila Plugins v0.0.1-13
 Wawla v1.0.9
 Wireless Redstone v1.4.1.9
@@ -154,12 +152,10 @@ Opis v1.3.0dev12
 ElectroMagic Tools v2.0.0Alpha-28
 Ender Zoo v1.0.7.17
 Hardcore Questing Mod v4.2.1
-Twilight Forest v2.3.2
 
 
 **Mods Currently Waiting to be Updated**
 
 DartCraft
-Modular Powersuits Addons
 Plugins For Forestry
 Portal Gun
