@@ -104,6 +104,7 @@ Red Logic v59.1.9
 Redstone Armory v1.1-22
 Redstone Arsenal v1.1.0RC2-43
 Refined Relocation v1.0.7f
+Reliquary v1.2.256
 Sanguimancy v1.1.9Pre-21
 ServerTools BACKUP v2.2.0.23
 ServerTools CORE v2.3.0.1
