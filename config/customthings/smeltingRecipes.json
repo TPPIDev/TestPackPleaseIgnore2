@@ -35,28 +35,23 @@
 		},
 
 		{
-			"input":"foodUncookedbeans",
-			"output":"foodCookedbeans"
-		},
-
-		{
 			"input":"foodUncookedfruitpie",
 			"output":"foodFruitpie"
-		},
-
-		{
-			"input":"foodUncookedtea",
-			"output":"foodCuptea"
 		},
 
 		{
 			"input":"minecraft:egg",
 			"output":"foodFriedegg"
 		},
-
-		{
-			"input":"foodUncookedbatwing",
-			"output":"foodFriedbatwing"
-		}
+        
+        {
+            "input":"foodUncookedburgerbun",
+            "output":"foodBurgerbun"
+        },
+        
+        {
+            "input":"foodUncookedpatty",
+            "output":"foodCookedpatty"
+        }
 	]
 }

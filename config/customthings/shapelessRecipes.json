@@ -1,75 +1,248 @@
-{"data":
-	[
-		{
-            "input":["minecraft:water_bucket"],
-            "output":"foodBottlewater",
-            "outputAmount":4
-        },
-
+{
+    "data": [
         {
-        	"input":["foodRice", "itemSalt", "foodBottlewater"],
-        	"output":"foodUncookedrice"
+            "input": [
+                "minecraft:water_bucket"
+            ],
+            "output": "foodBottlewater",
+            "outputAmount": 4
         },
-
         {
-        	"input":["minecraft:wheat", "minecraft:wheat", "itemSalt", "foodBottlewater"],
-        	"output":"foodDough",
-        	"outputAmount":2
+            "input": [
+                "foodRice",
+                "itemSalt",
+                "foodBottlewater"
+            ],
+            "output": "foodUncookedrice"
         },
-
         {
-        	"input":["minecraft:potato", "itemSalt"],
-        	"output":"foodUncookedfrenchfries"
+            "input": [
+                "minecraft:wheat",
+                "minecraft:wheat",
+                "itemSalt",
+                "foodBottlewater"
+            ],
+            "output": "foodDough",
+            "outputAmount": 2
         },
-
         {
-        	"input":["foodBean", "foodBean", "itemSalt", "foodBottlewater"],
-        	"output":"foodUncookedbeans"
+            "input": [
+                "minecraft:potato",
+                "itemSalt"
+            ],
+            "output": "foodUncookedfrenchfries"
         },
-
         {
-        	"input":["foodDough", "foodFruit", "foodFruit", "minecraft:sugar", "foodBottlewater"],
-        	"output":"foodUncookedfruitpie"
+            "input": [
+                "foodDough",
+                "foodFruit",
+                "foodFruit",
+                "minecraft:sugar",
+                "foodBottlewater"
+            ],
+            "output": "foodUncookedfruitpie"
         },
-
         {
-        	"input":["foodBottlewater", "foodTealeaves", "minecraft:sugar"],
-        	"output":"foodUncookedtea"
+            "input": [
+                "minecraft:baked_potato",
+                "itemSalt",
+                "foodOnion"
+            ],
+            "output": "foodHomefries"
         },
-
         {
-        	"input":["minecraft:baked_potato", "itemSalt", "foodOnion"],
-        	"output":"foodHomefries"
+            "input": [
+                "foodFriedegg",
+                "foodBacon",
+                "foodHomefries",
+                "foodToast"
+            ],
+            "output": "foodUltimatebreakfast"
         },
-
         {
-        	"input":["foodFriedegg", "foodBacon", "foodHomefries", "foodToast"],
-        	"output":"foodUltimatebreakfast"
+            "input": [
+                "foodSteamedrice",
+                "foodOnion",
+                "minecraft:carrot",
+                "foodMeat"
+            ],
+            "output": "foodFriedrice"
         },
-
         {
-        	"input":["foodSteamedrice", "foodOnion", "minecraft:carrot", "foodMeat"],
-        	"output":"foodFriedrice"
+            "input": [
+                "foodLettuce",
+                "foodOnion",
+                "minecraft:bowl"
+            ],
+            "output": "foodSpringsalad"
         },
-
         {
-        	"input":["foodSteamedrice", "foodBroccoli", "minecraft:cooked_beef", "sugar"],
-        	"output":"foodBeefbroccoli"
+            "input": [
+                "foodDough"
+            ],
+            "output": "foodUncookedburgerbun"
         },
-
         {
-        	"input":["foodLettuce", "foodOnion", "minecraft:bowl"],
-        	"output":"foodSpringsalad"
+            "input": [
+                "minecraft:beef",
+                "itemSalt"
+            ],
+            "output": "foodUncookedpatty"
         },
-
         {
-        	"input":["foodSteamedrice", "foodCookedbeans", "foodOnion"],
-        	"output":"foodBeansrice"
+            "input": [
+                "minecraft:milk_bucket",
+                "foodSalt"
+            ],
+            "output": "foodCheese"
         },
-
         {
-            "input":["foodBatwing", "minecraft:wheat", "itemSalt", "minecraft:egg"],
-            "output":"foodUncookedbatwing"
+            "input": [
+                "foodBurgerbun",
+                "foodCookedpatty"
+            ],
+            "output": "foodBurger"
+        },
+        {
+            "input": [
+                "foodBurger",
+                "foodBacon"
+            ],
+            "output": "foodBaconburger"
+        },
+        {
+            "input": [
+                "foodBurger",
+                "foodCheese"
+            ],
+            "output": "foodCheeseburger"
+        },
+        {
+            "input": [
+                "foodBurger",
+                "foodDragonpepper"
+            ],
+            "output": "foodDragonburger"
+        },
+        {
+            "input": [
+                "foodBurger",
+                "foodCheese",
+                "foodDragonpepper"
+            ],
+            "output": "foodCheesydragonburger"
+        },
+        {
+            "input": [
+                "foodCheeseburger",
+                "foodDragonpepper"
+            ],
+            "output": "foodCheesydragonburger"
+        },
+        {
+            "input": [
+                "foodDragonburger",
+                "foodCheese"
+            ],
+            "output": "foodCheesydragonburger"
+        },
+        {
+            "input": [
+                "foodBurger",
+                "foodBacon",
+                "foodCheese"
+            ],
+            "output": "foodBaconcheeseburger"
+        },
+        {
+            "input": [
+                "foodBaconburger",
+                "foodCheese"
+            ],
+            "output": "foodBaconcheeseburger"
+        },
+        {
+            "input": [
+                "foodCheeseburger",
+                "foodBacon"
+            ],
+            "output": "foodBaconcheeseburger"
+        },
+        {
+            "input": [
+                "foodBurger",
+                "foodBacon",
+                "foodDragonpepper"
+            ],
+            "output": "foodBacondragonburger"
+        },
+        {
+            "input": [
+                "foodBaconburger",
+                "foodDragonpepper"
+            ],
+            "output": "foodBacondragonburger"
+        },
+        {
+            "input": [
+                "foodDragonburger",
+                "foodBacon"
+            ],
+            "output": "foodBacondragonburger"
+        },
+        {
+            "input": [
+                "foodBurger",
+                "foodBacon",
+                "foodCheese",
+                "foodDragonpepper"
+            ],
+            "output": "foodSlysdragonburger"
+        },
+        {
+            "input": [
+                "foodBaconburger",
+                "foodCheese",
+                "foodDragonpepper"
+            ],
+            "output": "foodSlysdragonburger"
+        },
+        {
+            "input": [
+                "foodCheeseburger",
+                "foodBacon",
+                "foodDragonpepper"
+            ],
+            "output": "foodSlysdragonburger"
+        },
+        {
+            "input": [
+                "foodDragonburger",
+                "foodCheese",
+                "foodBacon"
+            ],
+            "output": "foodSlysdragonburger"
+        },
+        {
+            "input": [
+                "foodBaconcheeseburger",
+                "foodDragonpepper"
+            ],
+            "output": "foodSlysdragonburger"
+        },
+        {
+            "input": [
+                "foodBacondragonburger",
+                "foodCheese"
+            ],
+            "output": "foodSlysdragonburger"
+        },
+        {
+            "input": [
+                "foodCheesydragonburger",
+                "foodBacon"
+            ],
+            "output": "foodSlysdragonburger"
         }
-	]
+    ]
 }

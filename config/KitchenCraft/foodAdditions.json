@@ -24,17 +24,6 @@
 	},
 
 	{
-		"name": "bean",
-		"food": "1",
-		"saturation": 0.3,
-		"isMeat": false,
-		"color": 7225913,
-		"makeSeed": true,
-		"isEdible": true,
-		"seedRecipe": true
-	},
-
-	{
 		"name": "rice",
 		"food": "1",
 		"saturation": 0.3,
@@ -43,41 +32,6 @@
 		"makeSeed": true,
 		"isEdible": true,
 		"seedRecipe": true
-	},
-
-	{
-		"name": "broccoli",
-		"food": "1",
-		"saturation": 0.3,
-		"isMeat": false,
-		"color": 10932637,
-		"makeSeed": true,
-		"isEdible": true,
-		"seedRecipe": true,
-		"oreDictNames":["foodVeggie"]
-	},
-
-	{
-		"name": "tealeaves",
-		"isMeat": false,
-		"color": 9807983,
-		"makeSeed": true,
-		"isEdible": false,
-		"seedRecipe": true
-	},
-
-	{
-		"name": "kiwi",
-		"food": "1",
-		"saturation": 0.3,
-		"isMeat": false,
-		"isFruit": true,
-		"color": 11575668,
-		"makeSeed": true,
-		"isEdible": true,
-		"seedRecipe": true,
-		"oreDictNames":["foodFruit"],
-		"flavorText":"§bNo, not the bird."
 	},
 
 	{
@@ -113,13 +67,6 @@
 	},
 
 	{
-		"name": "uncookedbeans",
-		"isMeat": false,
-		"makeSeed": false,
-		"isEdible": false
-	},
-
-	{
 		"name": "uncookedrice",
 		"isMeat": false,
 		"makeSeed": false,
@@ -128,13 +75,6 @@
 
 	{
 		"name": "uncookedfruitpie",
-		"isMeat": false,
-		"makeSeed": false,
-		"isEdible": false
-	},
-
-	{
-		"name": "uncookedtea",
 		"isMeat": false,
 		"makeSeed": false,
 		"isEdible": false
@@ -195,15 +135,6 @@
 	},
 
 	{
-		"name": "cookedbeans",
-		"food": "6",
-		"saturation": 1,
-		"isMeat": false,
-		"makeSeed": false,
-		"isEdible": true
-	},
-
-	{
 		"name": "ultimatebreakfast",
 		"food": "12",
 		"saturation": 0.7,
@@ -231,16 +162,6 @@
 	},
 
 	{
-		"name": "beefbroccoli",
-		"food": "8",
-		"saturation": 0.8,
-		"isMeat": false,
-		"makeSeed": false,
-		"isEdible": true
-	},
-
-
-	{
 		"name": "springsalad",
 		"food": "6",
 		"saturation": 0.9,
@@ -248,16 +169,7 @@
 		"makeSeed": false,
 		"isEdible": true
 	},
-
-	{
-		"name": "beansrice",
-		"food": "8",
-		"saturation": 0.8,
-		"isMeat": false,
-		"makeSeed": false,
-		"isEdible": true
-	},
-
+    
 	{
 		"name": "fruitpie",
 		"food": "10",
@@ -268,49 +180,127 @@
 	},
 
 	{
-		"name": "cuptea",
-		"food": "1",
-		"saturation": 2,
+		"name": "uncookedburgerbun",
 		"isMeat": false,
 		"makeSeed": false,
-		"isAlwaysEdible": true,
-		"isDrink": true
+		"isEdible": false
 	},
 
 	{
-		"name": "batwing",
+		"name": "burgerbun",
 		"food": "2",
-		"saturation": 1.1,
-		"isMeat": true,
+		"saturation": 1,
+		"isMeat": false,
 		"makeSeed": false,
-		"isEdible": true,
-		"effects":[
-			{"name": "potion.hunger",
-			 "time": 180,
-			 "chance": 0.5
-			}],
-		"animals":["Bat"],
-		"minDropped": 1,
-		"maxDropped": 2
-
+		"isEdible": true
 	},
 
 	{
-		"name": "uncookedbatwing",
+		"name": "cheese",
+		"food": "2",
+		"saturation": 0.5,
+		"isMeat": false,
+		"makeSeed": false,
+		"isEdible": true
+	},
+
+	{
+		"name": "dragonpepper",
+		"food": "3",
+		"saturation": 0.3,
+		"color": 10701220,
+		"isMeat": false,
+		"makeSeed": true,
+		"isEdible": true,
+		"seedRecipe": true,
+		"oreDictNames":["foodFruit"]
+	},
+
+	{
+		"name": "uncookedpatty",
 		"isMeat": true,
 		"makeSeed": false,
 		"isEdible": false
-
 	},
 
 	{
-		"name": "friedbatwing",
-		"food": "5",
-		"saturation": 1.2,
+		"name": "cookedpatty",
+		"food": "4",
+		"saturation": 1.5,
 		"isMeat": true,
 		"makeSeed": false,
-		"isEdible": true,
-		"flavorText": "§bChicken of the cave.."
+		"isEdible": true
+	},
 
+	{
+		"name":	"burger",
+		"food": "8",
+		"saturation": 1.25,
+		"isMeat": true,
+		"makeSeed": false,
+		"isEdible": true
+	},
+
+	{
+		"name": "baconburger",
+		"food": "8",
+		"saturation": 1.6,
+		"isMeat": true,
+		"makeSeed": false,
+		"isEdible": true
+	},
+
+	{
+		"name": "cheeseburger",
+		"food": "8",
+		"saturation": 1.6,
+		"isMeat": true,
+		"makeSeed": false,
+		"isEdible": true
+	},
+
+	{
+		"name": "dragonburger",
+		"food": "8",
+		"saturation": 1.6,
+		"isMeat": true,
+		"makeSeed": false,
+		"isEdible": true
+	},
+
+	{
+		"name": "cheesydragonburger",
+		"food": "10",
+		"saturation": 1.6,
+		"isMeat": true,
+		"makeSeed": false,
+		"isEdible": true
+	},
+
+	{
+		"name": "baconcheeseburger",
+		"food": "10",
+		"saturation": 1.6,
+		"isMeat": true,
+		"makeSeed": false,
+		"isEdible": true
+	},
+
+	{
+		"name": "bacondragonburger",
+		"food": "10",
+		"saturation": 1.6,
+		"isMeat": true,
+		"makeSeed": false,
+		"isEdible": true
+	},
+
+	{
+		"name": "slysdragonburger",
+		"food": "14",
+		"saturation": 1.35,
+		"isMeat": true,
+		"makeSeed": false,
+		"isEdible": true
 	}]
 }

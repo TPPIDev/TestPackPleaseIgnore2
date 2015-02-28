@@ -1,0 +1,40 @@
+Recipe Types{
+	Vanilla,
+}
+
+upgrade names{
+	gogglesOfRevealing = Upgrade of Revealing
+	resonant = Resonant Energy
+	playerProtection = Player Protector
+	explosionProtector = upgrade.chbachman.explosionProtector.name
+	leadstone = Leadstone Energy
+	nightVision = Night Vision
+	jetpack = Jetpack
+	arthropod = Arthropod Protection
+	thomazm = Thomaz's Textures
+	reinforced = Reinforced Energy
+	potion = Potion
+	invisibility = Invisibility
+	stepAssist = Step Assist
+	feeder = Auto Feeder
+	visDiscount = Vis Discount
+	electrolyzer = Electrolyzer
+	calfShields = Calf Shields
+	manaConverter = Mana Converter
+	speed = Walking Speed Boost
+	undead = Undead Protection
+	unblockableProtector = Unblockable Protector
+	fireProtector = Fire Protection
+	solar = Solar Helmet
+	witherProtector = Wither Protector
+	blood = LP Converter
+	fallDamage = Long Fall Dampeners
+	sb = Armor Camouflage
+	magicProtector = Magic Protector
+	jumpBoost = Jump Boost
+	lavaProtector = Lava Protection
+	magnet = Magnet
+	hardened = Hardened Energy
+	pixie = Pixie Spawner
+}
+
