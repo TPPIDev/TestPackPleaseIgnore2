@@ -243,6 +243,14 @@
                 "foodBacon"
             ],
             "output": "foodSlysdragonburger"
+        },
+		{
+            "input": [
+                "foodToast",
+                "foodCheese"
+            ],
+            "output": "foodGrilledcheesesammich",
+			"outputAmount": 1
         }
     ]
 }

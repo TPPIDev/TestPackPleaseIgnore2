@@ -302,5 +302,14 @@
 		"isMeat": true,
 		"makeSeed": false,
 		"isEdible": true
+	},
+	
+	{
+		"name": "grilledcheesesammich",
+		"food": "6",
+		"saturation": 0.8,
+		"isMeat": false,
+		"makeSeed": false,
+		"isEdible": true
 	}]
 }
