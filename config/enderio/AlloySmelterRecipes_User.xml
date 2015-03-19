@@ -26,6 +26,363 @@ ore dictionary.
 -->
 
 <AlloySmelterRecipes>
+  <recipeGroup name="Dense Ores">
+
+    <recipe name="Dense Iron Ore" energyCost="2000">
+      <input>
+        <itemStack oreDictionary="denseoreIron" number="1" />
+      </input>
+      <output>
+        <itemStack oreDictionary="ingotIron" number="3" />
+      </output>
+    </recipe>
+    
+    <recipe name="Dense Gold Ore" energyCost="2000">
+      <input>
+        <itemStack oreDictionary="denseoreGold" number="1" />
+      </input>
+      <output>
+        <itemStack oreDictionary="ingotGold" number="3" />
+      </output>
+    </recipe>
+    
+    <recipe name="Dense Copper Ore" energyCost="2000">
+      <input>
+        <itemStack oreDictionary="denseoreCopper" number="1" />
+      </input>
+      <output>
+        <itemStack oreDictionary="ingotCopper" number="3" />
+      </output>
+    </recipe>
+    
+    <recipe name="Dense Lead Ore" energyCost="2000">
+      <input>
+        <itemStack oreDictionary="denseoreLead" number="1" />
+      </input>
+      <output>
+        <itemStack oreDictionary="ingotLead" number="3" />
+      </output>
+    </recipe>
+    
+    <recipe name="Dense Silver Ore" energyCost="2000">
+      <input>
+        <itemStack oreDictionary="denseoreSilver" number="1" />
+      </input>
+      <output>
+        <itemStack oreDictionary="ingotSilver" number="3" />
+      </output>
+    </recipe>
+    
+    <recipe name="Dense Tin Ore" energyCost="2000">
+      <input>
+        <itemStack oreDictionary="denseoreTin" number="1" />
+      </input>
+      <output>
+        <itemStack oreDictionary="ingotTin" number="3" />
+      </output>
+    </recipe>
+    
+    <recipe name="Dense Cobalt Ore" energyCost="2000">
+      <input>
+        <itemStack oreDictionary="denseoreCobalt" number="1" />
+      </input>
+      <output>
+        <itemStack oreDictionary="ingotCobalt" number="3" />
+      </output>
+    </recipe>
+    
+    <recipe name="Dense Ardite Ore" energyCost="2000">
+      <input>
+        <itemStack oreDictionary="denseoreArdite" number="1" />
+      </input>
+      <output>
+        <itemStack oreDictionary="ingotArdite" number="3" />
+      </output>
+    </recipe>
+    
+    <recipe name="Dense Diamond Ore" energyCost="2000">
+      <input>
+        <itemStack oreDictionary="denseoreDiamond" number="1" />
+      </input>
+      <output>
+        <itemStack oreDictionary="gemDiamond" number="3" />
+      </output>
+    </recipe>
+    
+    <recipe name="Dense Emerald Ore" energyCost="2000">
+      <input>
+        <itemStack oreDictionary="denseoreEmerald" number="1" />
+      </input>
+      <output>
+        <itemStack oreDictionary="gemEmerald" number="3" />
+      </output>
+    </recipe>
+    
+    <recipe name="Dense Quartz Ore" energyCost="2000">
+      <input>
+        <itemStack oreDictionary="denseoreQuartz" number="1" />
+      </input>
+      <output>
+        <itemStack oreDictionary="gemQuartz" number="3" />
+      </output>
+    </recipe>
+    
+    <recipe name="Dense Yellorite Ore" energyCost="2000">
+      <input>
+        <itemStack oreDictionary="denseoreYellorite" number="1" />
+      </input>
+      <output>
+        <itemStack oreDictionary="ingotYellorium" number="3" />
+      </output>
+    </recipe>
+
+    <recipe name="Dense Osmium Ore" energyCost="2000">
+      <input>
+        <itemStack oreDictionary="denseoreOsmium" number="1" />
+      </input>
+      <output>
+        <itemStack oreDictionary="ingotOsmium" number="3" />
+      </output>
+    </recipe>    
+
+  </recipeGroup>
   
+  <recipeGroup name="Nether Ores">
+  
+    <recipe name="Nether Coal Ore" energyCost="2000">
+      <input>
+        <itemStack oreDictionary="oreNetherCoal" number="1" />
+      </input>
+      <output>
+        <itemStack oreDictionary="oreCoal" number="2" />
+      </output>
+    </recipe>
+    
+    <recipe name="Nether Diamond Ore" energyCost="2000">
+      <input>
+        <itemStack oreDictionary="oreNetherDiamond" number="1" />
+      </input>
+      <output>
+        <itemStack oreDictionary="oreDiamond" number="2" />
+      </output>
+    </recipe>
+    
+    <recipe name="Nether Gold Ore" energyCost="2000">
+      <input>
+        <itemStack oreDictionary="oreNetherGold" number="1" />
+      </input>
+      <output>
+        <itemStack oreDictionary="oreGold" number="2" />
+      </output>
+    </recipe>
+    
+    <recipe name="Nether Iron Ore" energyCost="2000">
+      <input>
+        <itemStack oreDictionary="oreNetherIron" number="1" />
+      </input>
+      <output>
+        <itemStack oreDictionary="oreIron" number="2" />
+      </output>
+    </recipe>
+
+    <recipe name="Nether Coal Ore" energyCost="2000">
+      <input>
+        <itemStack oreDictionary="oreNetherCoal" number="1" />
+      </input>
+      <output>
+        <itemStack oreDictionary="oreCoal" number="2" />
+      </output>
+    </recipe>
+
+    <recipe name="Nether Lapis Ore" energyCost="2000">
+      <input>
+        <itemStack oreDictionary="oreNetherLapis" number="1" />
+      </input>
+      <output>
+        <itemStack oreDictionary="oreLapis" number="2" />
+      </output>
+    </recipe>
+
+    <recipe name="Nether Redstone Ore" energyCost="2000">
+      <input>
+        <itemStack oreDictionary="oreNetherRedstone" number="1" />
+      </input>
+      <output>
+        <itemStack oreDictionary="oreRedstone" number="2" />
+      </output>
+    </recipe>   
+
+    <recipe name="Nether Copper Ore" energyCost="2000">
+      <input>
+        <itemStack oreDictionary="oreNetherCopper" number="1" />
+      </input>
+      <output>
+        <itemStack oreDictionary="oreCopper" number="2" />
+      </output>
+    </recipe>
+
+    <recipe name="Nether Tin Ore" energyCost="2000">
+      <input>
+        <itemStack oreDictionary="oreNetherTin" number="1" />
+      </input>
+      <output>
+        <itemStack oreDictionary="oreTin" number="2" />
+      </output>
+    </recipe>    
+    
+    <recipe name="Nether Emerald Ore" energyCost="2000">
+      <input>
+        <itemStack oreDictionary="oreNetherEmerald" number="1" />
+      </input>
+      <output>
+        <itemStack oreDictionary="oreEmerald" number="2" />
+      </output>
+    </recipe>
+    
+    <recipe name="Nether Silver Ore" energyCost="2000">
+      <input>
+        <itemStack oreDictionary="oreNetherSilver" number="1" />
+      </input>
+      <output>
+        <itemStack oreDictionary="oreSilver" number="2" />
+      </output>
+    </recipe>
+    
+    <recipe name="Nether Lead Ore" energyCost="2000">
+      <input>
+        <itemStack oreDictionary="oreNetherLead" number="1" />
+      </input>
+      <output>
+        <itemStack oreDictionary="oreLead" number="2" />
+      </output>
+    </recipe>
+    
+    <recipe name="Nether Uranium Ore" energyCost="2000">
+      <input>
+        <itemStack oreDictionary="oreNetherUranium" number="1" />
+      </input>
+      <output>
+        <itemStack oreDictionary="oreUranium" number="2" />
+      </output>
+    </recipe>
+    
+    <recipe name="Nether Nikolite Ore" energyCost="2000">
+      <input>
+        <itemStack oreDictionary="oreNetherNikolite" number="1" />
+      </input>
+      <output>
+        <itemStack oreDictionary="oreNikolite" number="2" />
+      </output>
+    </recipe>
+    
+    <recipe name="Nether Ruby Ore" energyCost="2000">
+      <input>
+        <itemStack oreDictionary="oreNetherRuby" number="1" />
+      </input>
+      <output>
+        <itemStack oreDictionary="oreRuby" number="2" />
+      </output>
+    </recipe>
+    
+    <recipe name="Nether Peridot Ore" energyCost="2000">
+      <input>
+        <itemStack oreDictionary="oreNetherPeridot" number="1" />
+      </input>
+      <output>
+        <itemStack oreDictionary="orePeridot" number="2" />
+      </output>
+    </recipe>
+    
+    <recipe name="Nether Sapphire Ore" energyCost="2000">
+      <input>
+        <itemStack oreDictionary="oreNetherSapphire" number="1" />
+      </input>
+      <output>
+        <itemStack oreDictionary="oreSapphire" number="2" />
+      </output>
+    </recipe>
+    
+    <recipe name="Nether Platinum Ore" energyCost="2000">
+      <input>
+        <itemStack oreDictionary="oreNetherPlatinum" number="1" />
+      </input>
+      <output>
+        <itemStack oreDictionary="orePlatinum" number="2" />
+      </output>
+    </recipe>
+    
+    <recipe name="Nether Ferrous Ore" energyCost="2000">
+      <input>
+        <itemStack oreDictionary="oreNetherNickel" number="1" />
+      </input>
+      <output>
+        <itemStack oreDictionary="oreNickel" number="2" />
+      </output>
+    </recipe>
+    
+    <recipe name="Nether Pig Iron Ore" energyCost="2000">
+      <input>
+        <itemStack oreDictionary="oreNetherSteel" number="1" />
+      </input>
+      <output>
+        <itemStack oreDictionary="oreSteel" number="2" />
+      </output>
+    </recipe>
+
+    <recipe name="Nether Iridium Ore" energyCost="2000">
+      <input>
+        <itemStack oreDictionary="oreNetherIridium" number="1" />
+      </input>
+      <output>
+        <itemStack oreDictionary="oreIridium" number="2" />
+      </output>
+    </recipe>  
+
+    <recipe name="Nether Osmium Ore" energyCost="2000">
+      <input>
+        <itemStack oreDictionary="oreNetherOsmium" number="1" />
+      </input>
+      <output>
+        <itemStack oreDictionary="oreOsmium" number="2" />
+      </output>
+    </recipe> 
+
+    <recipe name="Nether Sulfur Ore" energyCost="2000">
+      <input>
+        <itemStack oreDictionary="oreNetherSulfur" number="1" />
+      </input>
+      <output>
+        <itemStack oreDictionary="oreSulfur" number="2" />
+      </output>
+    </recipe>    
+
+    <recipe name="Nether Mithril Ore" energyCost="2000">
+      <input>
+        <itemStack oreDictionary="oreNetherMithril" number="1" />
+      </input>
+      <output>
+        <itemStack oreDictionary="oreMithril" number="2" />
+      </output>
+    </recipe>
+    
+    <recipe name="Nether Tungsten Ore" energyCost="2000">
+      <input>
+        <itemStack oreDictionary="oreNetherTungsten" number="1" />
+      </input>
+      <output>
+        <itemStack oreDictionary="oreTungsten" number="2" />
+      </output>
+    </recipe>
+
+    <recipe name="Nether Amber Ore" energyCost="2000">
+      <input>
+        <itemStack oreDictionary="oreNetherAmber" number="1" />
+      </input>
+      <output>
+        <itemStack oreDictionary="oreAmber" number="2" />
+      </output>
+    </recipe>    
+  </recipeGroup>
+
 </AlloySmelterRecipes>  
 
