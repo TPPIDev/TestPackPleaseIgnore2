@@ -80,7 +80,7 @@ MineTweaker 3 v3.0.9C
 MmmMmmMmmMmm v1.6
 Mobius Core v1.3.0dev9
 ModpackTweaks v1.2.0-23
-ModularArmour v0.0.12
+ModularArmour v0.0.14
 ModTweaker2 v0.7.5
 MoreChisels v1.0-20
 Morph v0.9.1
