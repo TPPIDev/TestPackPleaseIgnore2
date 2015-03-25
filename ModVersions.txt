@@ -105,7 +105,7 @@ Refined Relocation v1.0.7g
 Reliquary v1.2.257
 Sanguimancy v1.1.9Pre-24
 ServerTools BACKUP v2.2.0.23
-ServerTools CORE v2.3.0.1
+ServerTools CORE v2.2.0.79
 Steves Carts 2 v2.0.0b18
 Steves Factory Manager vA93
 Storage Drawers v1.3.1
