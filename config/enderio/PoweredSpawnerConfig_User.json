@@ -4,7 +4,7 @@
   "costMultiplier": {
   },
   
-  "_comment": "Adding a blackList section will complete replace the one in the core file"
+  "_comment": "Adding a blackList section will complete replace the one in the core file",
   "blackList": [
     "VillagerGolem"
   ]
