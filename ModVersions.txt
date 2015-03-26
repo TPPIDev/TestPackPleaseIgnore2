@@ -38,7 +38,7 @@ CustomThings v0.0.2-24
 Damage Indicators v3.2.0
 Dense Ores v1.5
 Dimensional Anchors v59.0.2
-EiraIRC v2.8.148
+EiraIRC v2.8.148-TPPI
 Electrical Age Beta v1.9-r46
 EnderIO v2.2.8.363
 Ender Storage v1.4.5.27
