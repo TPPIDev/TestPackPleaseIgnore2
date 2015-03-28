@@ -119,7 +119,7 @@
 	{
 		"name": "toast",
 		"food": "5",
-		"saturation": 1.2,
+		"saturation": 0.3,
 		"isMeat": false,
 		"makeSeed": false,
 		"isEdible": true
