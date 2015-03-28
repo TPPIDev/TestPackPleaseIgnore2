@@ -45,7 +45,7 @@ Ender Storage v1.4.5.27
 ExtraCells v2.2.58b88
 ExtraTiC v1.0.3
 Extra Utilities v1.2.2
-FastCraft v1.19 (via mod download GUI)
+FastCraft v1.19
 Forge MultiPart v1.1.0.320
 FlatSigns v2.1.0.19
 FlaxBeards Steam Power v0.27.3
