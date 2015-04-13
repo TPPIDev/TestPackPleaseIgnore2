@@ -51,12 +51,18 @@ ThermalExpansion:Strongbox:*
 Mystcraft:BlockDecay:*
 Mystcraft:BlockStarFissure:*
 Mystcraft:WritingDesk:*
+Mystcraft:BlockBookReceptacle:*
+Mystcraft:BlockBookstand:*
+Mystcraft:BlockLectern:*
 
 # BuildCraft
 BuildCraft|Core:EternalSpring:*
 
 # Hardcore Ender Expansion
 HardcoreEnderExpansion:instability_orb_ore:*
+
+# RandomThings
+RandomThings:spectreBlock:*
 
 # Because Fako is Paranoid
 AWWayOfTime:demonPortalMain:0
