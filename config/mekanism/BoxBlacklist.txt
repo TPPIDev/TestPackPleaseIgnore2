@@ -24,6 +24,13 @@ ThaumicHorizons:modMatrix:0
 # Thaumic Tinkerer
 ThaumicTinkerer:bedrockPortal:0
 
+# Thermal Expansion
+ThermalExpansion:Strongbox:*
+
+# OpenComputers
+OpenComputers:robot:*
+
+
 # SuperMassiveTech
 superMassiveTech:blackHole:0
 superMassiveTech:invisibleLight:0
