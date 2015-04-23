@@ -1,0 +1,385 @@
+Forge
+    Permission: Covered Under Distribution Rights 
+    Source: http://sourceforge.net/p/minecraftforge/wiki/Minecraft%20Forge%20Public%20License%201.0/
+Admin Commands Toolbox
+    Permission: Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International Public License
+    Source: http://minecraft.curseforge.com/mc-mods/221584-admin-commands-toolbox
+Advanced Repulsion Systems 
+    Permission: MIT License 
+    Source: http://www.minecraftforum.net/forums/mapping-and-modding/minecraft-mods/1281065-immibiss-mods-now-with-85-7-less-version-numbers
+Advanced Solar Panels 
+    Permission: Blanket Permission in First Post 
+    Source: http://forum.industrial-craft.net/index.php?page=Thread&threadID=3291
+Another One Bites the Dust 
+    Permission Blanket Permission in First Post 
+    Source: http://www.minecraftforum.net/forums/mapping-and-modding/minecraft-mods/1293528-aobd-2-process-all-the-ores
+Apple Core 
+    Permission: Public Domain 
+    Source: https://github.com/squeek502/AppleCore/blob/master/LICENSE
+Applied Energistics 2 
+    Permission: Permission given in FAQ 
+    Source: http://ae-mod.info/Frequently-Asked-Questions/
+Armor Status HUD
+    Permission: Creative Commons Share Alike non-commercial License 
+    Source: http://www.minecraftforum.net/forums/mapping-and-modding/minecraft-mods/1282347-bspkrs-mods-armorstatushud-directionhud
+AsieLib 
+    Permission: GNU General Public License
+    Source: https://github.com/asiekierka/AsieLib/blob/1.7/src/main/resources/LICENSE
+Automagy 
+    Permission: Requires link to forum post and PM (see here for image: http://imgur.com/a/j0pG4)
+    Source: http://mc.shinonome.ch/doku.php?id=wiki:licensing
+Baubles 
+    Permission: Creative Commons Attribution-NonCommercial-ShareAlike 3.0 
+    Source: https://github.com/Azanor/Baubles/blob/master/LICENSE
+BDLib 
+    Permission: Minecraft Mod Public License 
+    Source: http://minecraft.curseforge.com/mc-mods/70496-bdlib
+Bibliocraft 
+    Permission: If credit is given and link provided 
+    Source: http://www.bibliocraftmod.com/?page_id=57#modpacks
+Bibliowoods (All)
+    Permission: If credit is given and link provided 
+    Source: http://www.bibliocraftmod.com/?page_id=57#modpacks
+Big Reactors 
+    Permission: MIT License 
+    Source: http://big-reactors.com/#/about
+Binnie's Mods 
+    Permission: Grants permission as long as Forestry does 
+    Source: http://minecraft.curseforge.com/mc-mods/223525-binnies-mods
+Biomes O' Plenty 
+    Permission: Allowed if not monetized, credit given & no alterations aside from config files 
+    Source: http://www.minecraftforum.net/forums/mapping-and-modding/minecraft-mods/1286162-biomes-o-plenty-over-75-new-biomes-plants-and-more
+Blood Magic 
+    Permission: Creative Commons Attribution 4.0 International License 
+    Source: http://www.minecraftforum.net/forums/mapping-and-modding/minecraft-mods/1290532-1-7-10-2-1-6-4-blood-magic-v1-2-0a-updated-oct-20
+Botania 
+    Permission: Creative Commons Attribution-NonCommercial-ShareAlike 3.0 Unported License 
+    Source: https://github.com/Vazkii/Botania
+BspkrsCore 
+    Permission: Creative Commons Share Alike non-commercial License 
+    Source: http://www.minecraftforum.net/forums/mapping-and-modding/minecraft-mods/1282347-bspkrs-mods-armorstatushud-directionhud
+Buildcraft 
+    Permission: Must provide link to site 
+    Source: http://www.mod-buildcraft.com/wiki/doku.php?id=faq
+Carpenter's Blocks 
+    Permission: Blanket permission on index 
+    Source: http://www.carpentersblocks.com/index.html
+Chisel 
+    Permission: Blanket permission given, would like to be told of use 
+    Source: http://www.minecraftforum.net/forums/mapping-and-modding/minecraft-mods/1294901-chisel
+ChiselTones
+	Permission: Permission to redistribute and include in any modpack
+	Source: http://minecraft.curseforge.com/mc-mods/228004-chiseltones
+Code Chicken Core 
+    Permission: Requires credit given 
+    Source: http://www.minecraftforum.net/forums/mapping-and-modding/minecraft-mods/1279956-chickenbones-mods
+Code Chicken Lib 
+    Permission: Requires credit given 
+    Source: http://www.minecraftforum.net/forums/mapping-and-modding/minecraft-mods/1279956-chickenbones-mods
+COFH Core 
+    Permission: Blanket permission given 
+    Source: http://teamcofh.com/license/
+COFH Lib 
+    Permission: Blanket permission given 
+    Source: http://teamcofh.com/license/
+Computronics 
+    Permission: License allows anyone to distribute copies of mod
+    Source: https://github.com/asiekierka/Computronics/blob/master/docs/LICENSE
+Cookie Core 
+    Permission: WTFPL 
+    Source: http://minecraft.curseforge.com/mc-mods/222908-cookiecore
+CustomThings
+	Permission: Blanket permission for all modpacks to distribute freely
+	Source: https://github.com/tterrag1098/CustomThings/blob/master/LICENSE
+Damage Indicators 
+    Permission: Allowed for unmodified versions, requires credit given 
+    Source: http://www.minecraftforum.net/forums/mapping-and-modding/minecraft-mods/1286538-hit-splat-damage-indicators-v3-1-2-rpg-ui-and
+Dense Ores 
+    Permission: Creative Commons Attribution 4.0 International License 
+    Source: https://github.com/rwtema/DenseOres
+Dimensional Anchors 
+    Permission: MIT License 
+    Source: http://www.minecraftforum.net/forums/mapping-and-modding/minecraft-mods/1281065-immibiss-mods-now-with-85-7-less-version-numbers
+EiraIRC
+    Permission: Attribution-NonCommercial 4.0 International 
+    Source: http://www.minecraftforum.net/forums/mapping-and-modding/minecraft-mods/1291581-1-7-10-forge-eirairc-irc-twitch-screenshots-and
+Electrical Age 
+    Permission: LGPL 3.0 License 
+    Source: http://electrical-age.net/
+EnderIO 
+    Permission: Public Domain 
+    Source: https://github.com/CrazyPants/EnderIO/blob/master/LICENSE
+Ender Storage 
+    Permission: Requires credit given 
+    Source: http://www.minecraftforum.net/forums/mapping-and-modding/minecraft-mods/1279956-chickenbones-mods
+Extra Cells 
+    Permission: MIT License 
+    Source: http://www.minecraftforum.net/forums/mapping-and-modding/minecraft-mods/1289077-ae-add-on-m3gas-extracells-2-1-3-2-1-12-2-2-0
+Extra TiC 
+    Permission: Requires link to forum thread 
+    Source: http://www.minecraftforum.net/forums/mapping-and-modding/minecraft-mods/wip-mods/1445212-extratic-tinkers-construct-mod-support-add-on
+Extra Utilities
+    Permission: Allows unmodified copies if credit is given and not monetized 
+    Source: http://www.minecraftforum.net/forums/mapping-and-modding/minecraft-mods/wip-mods/1443963-extra-utilities-v1-1-0k
+Forge Multipart
+    Permission: GNU Lesser General Public License 
+    Source: https://github.com/Chicken-Bones/ForgeMultipart/blob/master/LICENSE.txt
+FlatSigns 
+    Permission: Creative Commons BY-NC-ND 
+    Source: http://forum.feed-the-beast.com/threads/myrathis-mod-compendium.18505/
+FlaxBeards Steam Power 
+    Permission: Allows as long as not monetized or re-hosted individually 
+    Source: http://www.minecraftforum.net/forums/mapping-and-modding/minecraft-mods/2246930-flaxbeards-steam-power-beta-0-26-4-updated-oct-13
+Forbidden Magic 
+    Permission: Blanket permission in first post 
+    Source: http://www.minecraftforum.net/forums/mapping-and-modding/minecraft-mods/wip-mods/1445828-tc4-addon-forbidden-magic-v0-53-prerelease
+Forestry 
+    Permission: Allows if not monetized 
+    Source: http://forestry.sengir.net/wiki.new/doku.php?id=main:downloads#license
+GraviSuite 
+    Permission: Blanket permission in first post 
+    Source: http://forum.industrial-craft.net/index.php?page=Thread&threadID=6915
+Guide-API
+	Permission: Permission to include and redistribute in modpack
+	Source: http://minecraft.curseforge.com/mc-mods/228832-guide-api
+Hats 
+    Permission: Blanket permission given 
+    Source: http://ichun.us/support/mod-packs/
+Hardcore Ender Expansion
+	Permission: Requires PM (image here: http://imgur.com/a/j0pG4)
+	Source: http://www.minecraftforum.net/forums/mapping-and-modding/minecraft-mods/1281889-hardcore-ender-expansion-v1-7-1-200-000-dls
+IC2 Nuclear Control 
+    Permission: Allows anything, but will beat you up for monetization 
+    Source: http://forum.industrial-craft.net/index.php?page=Thread&threadID=10649
+iChunUtil
+    Permission: Blanket permission given 
+    Source: http://ichun.us/support/mod-packs/)
+Illuminated Bows:
+    Permission: MIT License
+    Source: https://github.com/MikeLydeamore/IlluminatedBows/blob/master/LICENSE
+Immibis Core
+    Permission: MIT License 
+    Source: http://www.minecraftforum.net/forums/mapping-and-modding/minecraft-mods/1281065-immibiss-mods-now-with-85-7-less-version-numbers
+Immibis' Microblocks
+    Permission: MIT License 
+    Source: http://www.minecraftforum.net/forums/mapping-and-modding/minecraft-mods/1281065-immibiss-mods-now-with-85-7-less-version-numbers
+Industrial Craft 2exp
+    Permisssions: Allowed if credit given and link to industrial-craft.net provided 
+    Source: http://forum.industrial-craft.net/index.php?page=Thread&threadID=7994
+Infernal Mobs 
+    Permission: Allowed if not monetized, credit given, and permission granted via PM (PM image here: http://imgur.com/a/j0pG4)
+    Source: http://atomicstryker.net/about.php
+InfiniBows
+    Permission: Creative Commons BY-NC-ND 
+    Source: http://forum.feed-the-beast.com/threads/myrathis-mod-compendium.18505/
+INpure Core
+    Permission: Blanket permission given 
+    Source: http://www.minecraftforum.net/forums/mapping-and-modding/minecraft-mods/2196459-1-7-10-inpure-projects-denoflions-mods
+Inventory Tweaks
+    Permission: MIT License 
+    Source: http://www.minecraftforum.net/forums/mapping-and-modding/minecraft-mods/1288184-inventory-tweaks-1-58-july-25
+Iron Chests 2 
+    Permission: GPL v3 
+    Source: https://github.com/progwml6/ironchest
+JABBA 
+    Permission: Apache 2.0 license 
+    Source: http://mobiusstrip.eu/wiki/License
+KitchenCraft 
+    Permission: Blanket Permission Given 
+    Source: https://github.com/wyldmods/KitchenCraft/blob/master/LICENSE
+Magic Bees
+	Permission: Blanket Permission Given
+	Source: http://minecraft.curseforge.com/mc-mods/65764-magic-bees
+Logistics Pipes 
+    Permission: Blanket permission in first post 
+    Source: http://www.minecraftforum.net/forums/mapping-and-modding/minecraft-mods/1289546-buildcraft-logistics-pipes#downloads
+Malisis Core 
+    Permission: MIT License 
+    Source: http://minecraft.curseforge.com/mc-mods/223896-malisiscore
+Malisis Doors 
+    Permission: Blanket permission in first post 
+    Source: http://www.minecraftforum.net/forums/mapping-and-modding/minecraft-mods/2076338-1-7-2-1-7-10-forge-malisisdoors-1-7-10-1-2-1-17
+Mantle 
+    Permission: MIT License 
+    Source: http://minecraft.curseforge.com/mc-mods/74924-mantle
+Mekanism 
+    Permission: MIT License, doesn't understand need for this 
+    Source: https://github.com/aidancbrady/Mekanism
+MineFactory Reloaded 
+    Permission: Free for non-commercial use, except for beta releases 
+    Source: http://www.minecraftforum.net/forums/mapping-and-modding/minecraft-mods/1292152-powercrystals-mods-minefactoryreloaded#pcc
+MineTweaker 3 
+    Permission: Allowed if not monetized 
+    Source: https://github.com/stanhebben/MineTweaker3
+MmmMmmMmmMmm
+	Permission: Blanket Permission
+	Source: http://minecraft.curseforge.com/mc-mods/225738-mmmmmmmmmmmm
+Mobius Core 
+    Permission: Apache 2.0 license 
+    Source: http://mobiusstrip.eu/wiki/License
+ModpackTweaks 
+    Permission: GNU Lesser General Public License 
+    Source: https://github.com/TPPIDev/Modpack-Tweaks/blob/master/LICENSE
+Modtweaker
+    Permission: MIT License
+    Source: http://minecraft.curseforge.com/mc-mods/220954-modtweaker
+Modular Armor
+	Permission: GNU Lesser General Public License
+	Source: http://minecraft.curseforge.com/mc-mods/224011-modular-armour
+More Chisels
+	Permission: Permission to include and redistribute in modpack
+	Source: http://minecraft.curseforge.com/mc-mods/227904-morechisels
+Morph 
+    Permission: Blanket permission given 
+    Source: http://ichun.us/support/mod-packs/
+Morpheus
+    Permission: Requires notification if including in public pack
+    Source: http://minecraft.curseforge.com/mc-mods/69118-morpheus
+Mystcraft 
+    Permission: Permission given for 1.6.4 (http://binarymage.com/forum/viewtopic.php?f=23&t=1816&p=14510&hilit=Test+pack+please+ignore#p14510) and license allows for updates to new minecraft versions 
+    Source: http://binarymage.com/forum/viewtopic.php?f=23&t=845
+Natura 
+    Permission: Modpacks encouraged 
+    Source: http://www.minecraftforum.net/forums/mapping-and-modding/minecraft-mods/1294968-natura
+NEI Addons 
+    Permission: MMPL-1.0 license 
+    Source: http://bdew.net/neiaddons/
+NEI Integration
+	Permission: MIT License
+	Source: http://minecraft.curseforge.com/mc-mods/225251-nei-integration
+Nether Ores 
+    Permission: Free for non-commercial use, except for beta releases 
+    Source: http://www.minecraftforum.net/forums/mapping-and-modding/minecraft-mods/1292152-powercrystals-mods-minefactoryreloaded#pcc
+Not Enough Codecs
+    Permission: Free to use in modpacks
+	Source: http://openmods.info/
+Not Enough Items 
+    Permission: Requires credit given 
+    Source: http://www.minecraftforum.net/forums/mapping-and-modding/minecraft-mods/1279956-chickenbones-mods
+Obsidian Pressure Plates 
+    Permission: Creative Commons BY-NC-ND 
+    Source: http://forum.feed-the-beast.com/threads/myrathis-mod-compendium.18505/
+Open Blocks 
+    Permission: Blanket permission given in first post 
+    Source: http://www.minecraftforum.net/forums/mapping-and-modding/minecraft-mods/1291207-openblocks-1-2-8
+Open Computers
+    Permission: MIT License 
+    Source: http://www.minecraftforum.net/forums/mapping-and-modding/minecraft-mods/1293018-opencomputers-v1-3-6
+Open Eye 
+    Permission: Blanket permission given 
+    Source: http://openeye.openmods.info/download
+Open Mods Lib 
+    Permission: Blanket permission given 
+    Source: http://openmods.info/
+Opis
+	Permission: Apache 2.0
+	Source: http://www.minecraftforum.net/forums/mapping-and-modding/minecraft-mods/1292610-server-admin-opis-1-2-3-the-server-admin
+Railcraft
+    Permission: Not allowed to monetize. Must include links to Railcraft's Blog, Wiki  & License on website.  Must wait 1 week after release of new series to use.  Cannot use betas.  Required to publicly post a licensing page with entries for all mods currently in the pack. 
+    Source: http://railcraft.info/wiki/info:license
+Random Things
+    Permission: Blanket permission given in first post 
+    Source: http://www.minecraftforum.net/forums/mapping-and-modding/minecraft-mods/1289551-1-6-x-1-7-2-1-7-10-random-things-2-1-5
+RecipeTweakingCore 
+    Permission: GNU Lesser Public License 
+    Source: https://github.com/TPPIDev/RecipeTweakingCore/blob/master/LICENSE
+Red Logic 
+    Permission: Blanket permission granted 
+    Source: http://www.minecraftforum.net/forums/mapping-and-modding/minecraft-mods/1444476-1-7-2-redlogic-replacement-for-rp2-wiring-logic
+Redstone Armory
+	Permission: Permission to include and redistribute in modpack
+	Source: http://minecraft.curseforge.com/mc-mods/229339-redstone-armory
+Redstone Arsenal 
+    Permission: Blanket permission given 
+    Source: http://teamcofh.com/license/
+Refined Relocation 
+    Permission: LGPL 
+    Source: http://www.minecraftforum.net/forums/mapping-and-modding/minecraft-mods/1293062-refined-relocation-1-0-6-solves-your
+Reliquary 
+    Permission: Blanket permission given in first post 
+    Source: http://www.minecraftforum.net/forums/mapping-and-modding/minecraft-mods/2234220-xenos-reliquary
+Sanguimancy 
+    Permission: Creative Commons Attribution 4.0 International License 
+    Source: https://github.com/Tombenpotter/Sanguimancy
+Server Tools (All)
+    Permission: Apache 2.0 License 
+    Source: http://servertools.info/#!index.md
+Steve's Carts 2 
+    Permission: Allows if not monetized and permission has been received from all other mods included in pack 
+    Source: http://stevescarts2.wikispaces.com/
+Steve's Factory Manager 
+    Permission: Allows if not monetized and permission has been received from all other mods included in pack 
+    Source: http://stevesfactorymanager.wikispaces.com/
+Storage Drawers 
+    Permission: MIT License 
+    Source: http://www.minecraftforum.net/forums/mapping-and-modding/minecraft-mods/2198533-storage-drawers-v1-1-7-updated-oct-23-14
+Super Massive Tech 
+    Permission: LGPLv3 License 
+    Source: http://www.minecraftforum.net/forums/mapping-and-modding/minecraft-mods/wip-mods/2105190-super-massive-tech-harness-the-power-of-the-stars
+Thaumcraft 
+    Permission: Allows if not monetized and a link to thread is provided 
+    Source: http://www.minecraftforum.net/forums/mapping-and-modding/minecraft-mods/1292130-thaumcraft-4-2-1-4-updated-2014-10-10
+Thaumic Energistics 
+    Permission: Blanket permission granted in first post 
+    Source: http://www.minecraftforum.net/forums/mapping-and-modding/minecraft-mods/wip-mods/2150151-1-7-10-tc4-ae2-thaumic-energistics
+Thaumic Exploration 
+    Permission: Blanket permission given in first post 
+    Source: http://www.minecraftforum.net/forums/mapping-and-modding/minecraft-mods/wip-mods/1445786-1-6-4-1-7-10-thaumic-exploration-0-6-0-thaumcraft
+Thaumcraft NEI Plguin 
+    Permission: Must get personal consent via PM (image here: http://imgur.com/a/j0pG4)
+    Source: http://www.minecraftforum.net/forums/mapping-and-modding/minecraft-mods/2237271-1-6-4-1-7-10-thaumcraft-nei-plugin-nei
+	SCREENSHOT REQUIRED
+Thaumic Tinkerer 
+    Permission: Creative Commons Attribution-NonCommercial-ShareAlike 3.0 Unported License 
+    Source: http://www.minecraftforum.net/forums/mapping-and-modding/minecraft-mods/1289299-thaumic-tinkerer-thaumcraft-addon-evolve-knowledge
+Thermal Expansion 
+    Permission: Blanket permission given 
+    Source: http://teamcofh.com/license/
+Thermal Foundation
+    Permission: Blanket permission given 
+    Source: http://teamcofh.com/license/
+Tinkers Construct 
+    Permission: Modpacks are encouraged 
+    Source: http://www.minecraftforum.net/forums/mapping-and-modding/minecraft-mods/2218638-tinkers-construct
+Tinkers Mechworks 
+    Permission: MIT License 
+    Source: http://www.minecraftforum.net/forums/mapping-and-modding/minecraft-mods/wip-mods/1446244-1-6-4-tinkers-mechworks
+Tinkers Steelworks 
+    Permission: I think the gangster speak would translate to "blanket permission granted", though unsure... 
+    Source: http://www.minecraftforum.net/forums/mapping-and-modding/minecraft-mods/wip-mods/1445710-1-6-4-tinkers-steelworks
+Tinkers Tooltips
+    Permission: Blanket permission given in first post 
+    Source: http://www.minecraftforum.net/forums/mapping-and-modding/minecraft-mods/1294501-tic-tooltips-in-game-tinkers-construct-tool
+TPPI-Tweaks 
+    Permission: GNU Lesser General Public License 3.0 
+    Source: https://github.com/TPPIDev/TPPI-Tweaks/blob/master/LICENSE.md
+Translocators 
+    Permission: Requires credit given 
+    Source: http://www.minecraftforum.net/forums/mapping-and-modding/minecraft-mods/1279956-chickenbones-mods
+ttCore
+    Permission: Allowed if not monetized 
+    Source: https://github.com/tterrag1098/ttCore/blob/master/LICENSE
+Twilight Forest
+	Permission: Provide link to forum post, credit the author and do not monetize
+	Source: http://www.minecraftforum.net/forums/mapping-and-modding/minecraft-mods/1276258-the-twilight-forest-v2-3-4-snow-queen-troll
+Waila
+    Permission: Apache 2.0 license 
+    Source: http://mobiusstrip.eu/wiki/License
+Waila Plugins 
+    Permission: Allowed if not monetized 
+    Source: https://github.com/tterrag1098/WAILAPlugins/blob/master/LICENSE
+Wawla 
+    Permission: Allowed if not monetized, a public list of mods is available and permission has been obtained for all other mods in the pack 
+    Source: http://www.minecraftforum.net/forums/mapping-and-modding/minecraft-mods/2169830-wawla-what-are-we-looking-at
+Wireless Redstone 
+    Permission: Requires credit given 
+    Source: http://www.minecraftforum.net/forums/mapping-and-modding/minecraft-mods/1279956-chickenbones-mods
+Witchery 
+    Permission: Requires PM to indicate intent with name of mod pack, visible credit to the mod author, link to forum post and cannot be monetized (PM image here: http://imgur.com/a/j0pG4)
+    Source: http://www.minecraftforum.net/forums/mapping-and-modding/minecraft-mods/wip-mods/1445248-witchery-0-20-6
+Xaero's Minimap
+    Permission: Requires link back to MCP page and pack cannot be monetized.
+    Source: http://www.planetminecraft.com/mod/xaeros-minimap/
+Ztones
+	Permission: Full permission. Appreciates linkback, not necessary
+	Source: http://www.minecraftforum.net/forums/mapping-and-modding/minecraft-mods/2221070-ztones-v-2-2-1-decorative-blocks-16x
