@@ -2,7 +2,7 @@ Current Mod Versions
 
 NOTE: In no way is the modlist final. Do not ask about adding or removing mods until this list is internally stabilized. Also, some of these mods are here for pure experimentation for how they would fit in the pack.
 
-Forge 1291
+Forge 1384
 
 Advanced Repulsion Systems v59.0.2
 Advanced Solar Panels v3.5.1
