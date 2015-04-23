@@ -1,3 +1,23 @@
+TPPI2v0.1.2~
+~
+- Countless mod updates
+~
+- Un-hid Potions from NEI
+~
+- Added ores to the Blood Magic meteor
+~
+- Disabled the Hardcore Ender Expansion Decomposition Table
+~~~
+- Disabled the EnderIO skeleton override. Should fix many of the nether mishaps.
+~
+- Disabled generation of Nether Iridium
+~
+- Fixed a few Biome ID conflicts
+~~~
+- Nerfed Buildcraft Quarry recipe even further
+~
+- Changed the EiraIRC Ident so it's easier to distinguish between versions.
+~~~
 TPPI2v0.1.0~
 ~
 - Initial Release.
