@@ -6,60 +6,55 @@ Forge 1291
 
 Advanced Repulsion Systems v59.0.2
 Advanced Solar Panels v3.5.1
-Another One Bites the Dust 2 v2.4.0
+Another One Bites the Dust 2 v2.5.0
 Apple Core v1.1.0
-Applied Energistics 2 rv2-beta-14
+Applied Energistics 2 rv2-beta-28
 Armor Status HUD v1.28
-AsieLib v0.3.10
-Automagy v0.21
+AsieLib v0.3.13
+Automagy v0.22.2
 Baubles v1.0.1.10
-Bibliocraft v1.9.2
-Bibliowoods BiomesOPlenty v1.9
-Bibliowoods Forestry v1.7
-Bibliowoods Natura v1.5
-Big Reactors v0.4.1A2
+Bibliocraft v1.10.3
+Big Reactors v0.4.3A
 Binnie's Mods 2.0-pre8
-Biomes O' Plenty v2.1.0.1125
-Blood Magic v1.3.1-7
-Botania v1.3-170
+Biomes O' Plenty v2.1.0.1237
+Blood Magic v1.3.2-1
+Botania v1.3-182
 BspkrsCore v6.15
-Buildcraft v6.4.3
-Buildcraft Compat v6.4.0
-Carpenter's Blocks v3.3.5
-Chisel 2 vDEV-2.3.7.84
+Buildcraft v6.4.13
+Buildcraft Compat v6.4.2
+Carpenter's Blocks v3.3.6
+Chisel 2 v2.3.10.37
 Chisel Tones v1.0-1
-Code Chicken Core v1.0.4.35
-Code Chicken Lib v1.1.1.110
-COFH Core v3.0.0RC7-211
-COFH Lib v1.0.0RC7-127
-Computronics v1.4.3
-Cookie Core v1.3.1-5
-CustomThings v0.0.2-24
-Damage Indicators v3.2.0
-Dense Ores v1.5
+Code Chicken Core v1.0.5.37
+COFH Core v3.0.2-262
+Computronics v1.4.6
+Cookie Core v1.3.1-7
+CustomThings v0.0.2-27
+Damage Indicators v3.2.3
+Dense Ores v1.6.2
 Dimensional Anchors v59.0.2
 EiraIRC v1.7.56
 Electrical Age Beta v1.9-r46
-EnderIO v2.2.8.363
-Ender Storage v1.4.5.27
-ExtraCells v2.2.58b88
+EnderIO v2.3.0.375
+Ender Storage v1.4.5.33
+ExtraCells v2.2.69b
 ExtraTiC v1.0.3
-Extra Utilities v1.2.2
-FastCraft v1.19 (via mod download GUI)
-Forge MultiPart v1.1.0.320
+Extra Utilities v1.2.4b
+FastCraft v1.21 (via mod download GUI)
+Forge MultiPart v1.1.0.331
 FlatSigns v2.1.0.19
-FlaxBeards Steam Power v0.27.3
-Forbidden Magic v0.563
-Forestry v3.4.0.7
+FlaxBeards Steam Power v0.28.7
+Forbidden Magic v0.562
+Forestry v3.5.4.13
 GraviSuite v2.0.3
-Hardcore Ender Expansion v1.7
+Hardcore Ender Expansion v1.8
 Hats v4.0.1
-IC2 Nuclear Control v2.1.2a
-iChunUtil v4.1.3
-Illuminated Bows v1.7.1d
+IC2 Nuclear Control v2.2.1a-Yolo
+iChunUtil v4.2.2
+Illuminated Bows v1.7.1f
 Immibis Core v59.0.8
 Immibis' Microblocks v59.0.5
-Industrial Craft 2exp v2.2.691
+Industrial Craft 2exp v2.2.717
 Infernal Mobs v1.7.10
 InfiniBows v1.3.0.20
 INpureCore v1.0.0B9-54
@@ -68,70 +63,70 @@ Iron Chests 2 v6.0.62.742
 JABBA v1.2.1a
 KitchenCraft-combo v0.0.1-57
 Lib Sandstone v1.0.0
-Logistics Pipes v0.8.3.108
-Magic Bees v2.1.22
-Malisis Core v0.10.5
-Malisis Doors 1.4.3
+Logistics Pipes v0.8.3.117
+Magic Bees v2.2.3
+Malisis Core v0.11.4
+Malisis Doors 1.6
 Mantle v0.3.2.187
-Mekanism v7.1.2.TPPIEdition
-Mekanism Generators v7.1.2.175
-MineFactory Reloaded v2.8.0RC8-88
+Mekanism v8.1.0.TPPIEdition
+Mekanism Generators v8.1.1.225
+MineFactory Reloaded v2.8.0-104
 MineTweaker 3 v3.0.9C
 MmmMmmMmmMmm v1.6
-Mobius Core v1.3.0dev9
-ModpackTweaks v1.2.0-23
-ModularArmour v0.0.14
-ModTweaker2 v0.7.5
+Mobius Core v1.2.5
+ModpackTweaks v1.2.0-24
+ModularArmour v1.0.4-27
+ModTweaker2 v0.8.0
 MoreChisels v1.0-20
 Morph v0.9.1
-Mystcraft 0.11.0.00
+Mystcraft 0.11.5.00
 Natura v98.6a6cca1
-NEI Addons v1.12.3.13
-NEI Integration v1.0.5
-Nether Ores v2.3.0RC4-4
+NEI Addons v1.12.6.18
+NEI Integration v1.0.9
+Nether Ores v2.3.0-12
 Not Enough Codecs v0.3-13
-Not Enough Items v1.0.4.83
-Open Blocks v1.3-snapshot-569
-Open Computers v1.5.3.455-dev
-Open Eye v0.6-snapshot-142
-Open Mods Lib v0.6-snapshot-320
+Not Enough Items v1.0.4.95
+Open Blocks v1.4.1-snapshot-601
+Open Computers v1.5.9.589-dev
+Open Eye v0.6-snapshot-145
+Open Mods Lib v0.7.1-snapshot-342
 Railcraft v9.5.0.0
 Random Things v2.2.4
 RecipeTweakingCore v1.1.0-8
 Red Logic v59.1.9
-Redstone Armory v1.1-23
-Redstone Arsenal v1.1.0RC7-65
-Refined Relocation v1.0.7g
+Redstone Armory v1.1-28
+Redstone Arsenal v1.1.0-80
+Refined Relocation v1.0.8a
 Reliquary v1.2.257
-Sanguimancy v1.1.9Pre-24
-ServerTools BACKUP v2.2.0.23
+Sanguimancy v1.1.9-26
+ServerTools BACKUP v2.2.0.24
 ServerTools CORE v2.2.0.79
 Steves Carts 2 v2.0.0b18
 Steves Factory Manager vA93
-Storage Drawers v1.3.1
-Super Massive Tech v0.3.0-alpha-109
+Storage Drawers v1.3.9
+Super Massive Tech v0.3.0-alpha-110
 Thaumcraft 4 v4.2.3.5
 ThaumcraftNEIPlugin v1.7
-Thaumic Energistics v0.8.9.0b-rv2
+Thaumic Energistics v0.8.9.3a-rv2
 Thaumic Exploration v1.1-37
-Thaumic Tinkerer v2.5-471
-Thermal Dynamics v1.0.0RC7-98
-Thermal Expansion v4.0.0RC7-141
-Thermal Foundation v1.0.0RC7-62
-Tinkers Construct v1.8.3-917
-Tinkers Mechworks v0.2.13.96
-Tinkers Steelworks v1.1.0-7
-Tinkers Tooltips v1.2.1
-TPPI-Tweaks v1.2.0-114
+Thaumic Tinkerer v2.5-485
+Thermal Dynamics v1.0.0-122
+Thermal Expansion v4.0.1-182
+Thermal Foundation v1.0.0-81
+Tinkers Construct v1.8.4-940
+Tinkers Mechworks v0.2.14.100
+Tinkers Steelworks v1.1.0-13
+Tinkers Tooltips v1.2.3
+TPPI-Tweaks v1.2.0-117
 Translocators v1.1.1.14
-ttCore v0.1.1-71
-Twilight Forest v2.3.4
-Waila v1.5.9
-Waila Plugins v0.0.1-13
-Wawla v1.0.9
+ttCore v0.1.1-76
+Twilight Forest v2.3.5
+Waila v1.5.10
+Waila Plugins v0.0.1-14
+Wawla v1.2.1
 Wireless Redstone v1.4.1.9
-Witchery v0.23.2
-Xaero's Minimap v1.3.7.4
+Witchery v0.24.1
+Xaero's Minimap v1.4.1.3
 Ztones v2.2.1
 
 
