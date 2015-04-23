@@ -14,6 +14,8 @@ TPPI2v0.1.2~
 ~
 - Fixed a few Biome ID conflicts
 ~~~
+- Fixed Buildcraft Quarry recipe
+~
 - Nerfed Buildcraft Quarry recipe even further
 ~
 - Changed the EiraIRC Ident so it's easier to distinguish between versions.
