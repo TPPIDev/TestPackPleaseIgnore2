@@ -1,3 +1,20 @@
+TPPI2v0.1.5~
+- Update Logistics Pipes to stop a CTD
+~
+- Update Guide-API
+~
+- Re-add the IC2 config. Why must it use a .ini?
+~~~
+- Update EiraIRC to a custom version. Fixes link issue. Introduces color issues! \o/
+~~~
+TPPI2v0.1.4~
+~
+- Minor mod fixes to fix server crash
+~~~
+TPPI2v0.1.3~
+~
+- Minor mod fixes to fix crash
+~~~
 TPPI2v0.1.2~
 ~
 - Countless mod updates

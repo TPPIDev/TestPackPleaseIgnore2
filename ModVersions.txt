@@ -33,7 +33,7 @@ CustomThings v0.0.2-27
 Damage Indicators v3.2.3
 Dense Ores v1.6.2
 Dimensional Anchors v59.0.2
-EiraIRC v1.7.56
+EiraIRC v2.8.TPPI
 Electrical Age Beta v1.9-r46
 EnderIO v2.3.0.375
 Ender Storage v1.4.5.33
@@ -47,6 +47,7 @@ FlaxBeards Steam Power v0.28.7
 Forbidden Magic v0.562
 Forestry v3.5.4.13
 GraviSuite v2.0.3
+Guide-API v1.0-13
 Hardcore Ender Expansion v1.8
 Hats v4.0.1
 IC2 Nuclear Control v2.2.1a-Yolo
@@ -63,7 +64,7 @@ Iron Chests 2 v6.0.62.742
 JABBA v1.2.1a
 KitchenCraft-combo v0.0.1-57
 Lib Sandstone v1.0.0
-Logistics Pipes v0.8.3.117
+Logistics Pipes v0.8.3.118
 Magic Bees v2.2.3
 Malisis Core v0.11.4
 Malisis Doors 1.6
