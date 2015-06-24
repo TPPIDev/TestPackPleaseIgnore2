@@ -38,6 +38,9 @@ superMassiveTech:invisibleLight:0
 # Applied Energistics 2
 appliedenergistics2:tile.BlockDrive:0
 
+#Extra Utilities
+ExtraUtilities:dark_portal:*
+
 # Carpenters Blocks
 CarpentersBlocks:blockCarpentersSafe:*
 CarpentersBlocks:blockCarpentersDoor:*
