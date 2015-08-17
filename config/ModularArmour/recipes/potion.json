@@ -1,0 +1,24 @@
+{
+  "output": "potion",
+  "width": 3,
+  "height": 3,
+  "row1": [
+    "ingotIron",
+    "dustRedstone",
+    "ingotIron"
+  ],
+  "row2": [
+    "blockGlass",
+    {
+      "isBlock": false,
+      "name": "minecraft:water_bucket",
+      "metadata": 0
+    },
+    "blockGlass"
+  ],
+  "row3": [
+    "ingotIron",
+    "blockGlass",
+    "ingotIron"
+  ]
+}

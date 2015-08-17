@@ -1,0 +1,56 @@
+{
+  "output": "arthropod",
+  "width": 3,
+  "height": 3,
+  "row1": [
+    {
+      "isBlock": false,
+      "name": "minecraft:string",
+      "metadata": 0
+    },
+    {
+      "isBlock": false,
+      "name": "minecraft:spider_eye",
+      "metadata": 0
+    },
+    {
+      "isBlock": false,
+      "name": "minecraft:string",
+      "metadata": 0
+    }
+  ],
+  "row2": [
+    {
+      "isBlock": false,
+      "name": "minecraft:spider_eye",
+      "metadata": 0
+    },
+    {
+      "isBlock": false,
+      "name": "minecraft:string",
+      "metadata": 0
+    },
+    {
+      "isBlock": false,
+      "name": "minecraft:spider_eye",
+      "metadata": 0
+    }
+  ],
+  "row3": [
+    {
+      "isBlock": false,
+      "name": "minecraft:string",
+      "metadata": 0
+    },
+    {
+      "isBlock": false,
+      "name": "minecraft:spider_eye",
+      "metadata": 0
+    },
+    {
+      "isBlock": false,
+      "name": "minecraft:string",
+      "metadata": 0
+    }
+  ]
+}

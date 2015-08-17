@@ -1,0 +1,24 @@
+{
+  "output": "fallDamage",
+  "width": 3,
+  "height": 3,
+  "row1": [
+    null,
+    null,
+    null
+  ],
+  "row2": [
+    null,
+    null,
+    null
+  ],
+  "row3": [
+    "ingotIron",
+    {
+      "isBlock": true,
+      "name": "minecraft:wool",
+      "metadata": 32767
+    },
+    "ingotIron"
+  ]
+}

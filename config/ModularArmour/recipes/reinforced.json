@@ -1,0 +1,20 @@
+{
+  "output": "reinforced",
+  "width": 3,
+  "height": 3,
+  "row1": [
+    "ingotGold",
+    "dustRedstone",
+    "ingotGold"
+  ],
+  "row2": [
+    "dustRedstone",
+    "blockGold",
+    "dustRedstone"
+  ],
+  "row3": [
+    "ingotGold",
+    "dustRedstone",
+    "ingotGold"
+  ]
+}

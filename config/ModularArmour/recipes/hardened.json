@@ -1,0 +1,20 @@
+{
+  "output": "hardened",
+  "width": 3,
+  "height": 3,
+  "row1": [
+    "gemLapis",
+    "dustRedstone",
+    "gemLapis"
+  ],
+  "row2": [
+    "dustRedstone",
+    "blockLapis",
+    "dustRedstone"
+  ],
+  "row3": [
+    "gemLapis",
+    "dustRedstone",
+    "gemLapis"
+  ]
+}

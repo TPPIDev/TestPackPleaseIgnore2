@@ -1,0 +1,52 @@
+{
+  "output": "unblockableProtector",
+  "width": 3,
+  "height": 3,
+  "row1": [
+    {
+      "isBlock": false,
+      "name": "minecraft:diamond",
+      "metadata": 0
+    },
+    null,
+    {
+      "isBlock": false,
+      "name": "minecraft:diamond",
+      "metadata": 0
+    }
+  ],
+  "row2": [
+    {
+      "isBlock": false,
+      "name": "minecraft:diamond",
+      "metadata": 0
+    },
+    {
+      "isBlock": false,
+      "name": "minecraft:diamond",
+      "metadata": 0
+    },
+    {
+      "isBlock": false,
+      "name": "minecraft:diamond",
+      "metadata": 0
+    }
+  ],
+  "row3": [
+    {
+      "isBlock": false,
+      "name": "minecraft:diamond",
+      "metadata": 0
+    },
+    {
+      "isBlock": false,
+      "name": "minecraft:diamond",
+      "metadata": 0
+    },
+    {
+      "isBlock": false,
+      "name": "minecraft:diamond",
+      "metadata": 0
+    }
+  ]
+}

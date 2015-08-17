@@ -1,0 +1,28 @@
+{
+  "output": "playerProtection",
+  "width": 3,
+  "height": 3,
+  "row1": [
+    {
+      "isBlock": true,
+      "name": "minecraft:crafting_table",
+      "metadata": 32767
+    },
+    "ingotIron",
+    {
+      "isBlock": true,
+      "name": "minecraft:chest",
+      "metadata": 32767
+    }
+  ],
+  "row2": [
+    "ingotIron",
+    "ingotIron",
+    "ingotIron"
+  ],
+  "row3": [
+    "ingotIron",
+    "ingotIron",
+    "ingotIron"
+  ]
+}

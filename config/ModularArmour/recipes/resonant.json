@@ -1,0 +1,20 @@
+{
+  "output": "resonant",
+  "width": 3,
+  "height": 3,
+  "row1": [
+    "gemDiamond",
+    "dustRedstone",
+    "gemDiamond"
+  ],
+  "row2": [
+    "dustRedstone",
+    "blockDiamond",
+    "dustRedstone"
+  ],
+  "row3": [
+    "gemDiamond",
+    "dustRedstone",
+    "gemDiamond"
+  ]
+}

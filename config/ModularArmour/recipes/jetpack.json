@@ -1,0 +1,24 @@
+{
+  "output": "jetpack",
+  "width": 3,
+  "height": 3,
+  "row1": [
+    "ingotIron",
+    "ingotGold",
+    "ingotIron"
+  ],
+  "row2": [
+    "ingotIron",
+    {
+      "isBlock": false,
+      "name": "minecraft:nether_star",
+      "metadata": 0
+    },
+    "ingotIron"
+  ],
+  "row3": [
+    "dustRedstone",
+    null,
+    "dustRedstone"
+  ]
+}

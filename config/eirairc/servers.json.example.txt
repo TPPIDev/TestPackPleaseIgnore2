@@ -24,7 +24,7 @@
       "relayDeathMessages": false,
       "(more)": "(see shared.cfg for more options)"
     },
-    "general": {
+    "settings": {
       "autoJoin": true,
       "(more)": "(see shared.cfg for more options)"
     }

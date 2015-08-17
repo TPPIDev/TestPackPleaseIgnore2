@@ -1,0 +1,28 @@
+{
+  "output": "jumpBoost",
+  "width": 3,
+  "height": 3,
+  "row1": [
+    "ingotIron",
+    null,
+    "ingotIron"
+  ],
+  "row2": [
+    "ingotIron",
+    null,
+    "ingotIron"
+  ],
+  "row3": [
+    {
+      "isBlock": true,
+      "name": "minecraft:piston",
+      "metadata": 32767
+    },
+    null,
+    {
+      "isBlock": true,
+      "name": "minecraft:piston",
+      "metadata": 32767
+    }
+  ]
+}

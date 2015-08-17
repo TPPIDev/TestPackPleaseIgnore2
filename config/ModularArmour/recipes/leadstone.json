@@ -1,0 +1,20 @@
+{
+  "output": "leadstone",
+  "width": 3,
+  "height": 3,
+  "row1": [
+    "ingotIron",
+    "dustRedstone",
+    "ingotIron"
+  ],
+  "row2": [
+    "dustRedstone",
+    "blockIron",
+    "dustRedstone"
+  ],
+  "row3": [
+    "ingotIron",
+    "dustRedstone",
+    "ingotIron"
+  ]
+}

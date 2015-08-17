@@ -1,0 +1,40 @@
+{
+  "output": "explosionProtector",
+  "width": 3,
+  "height": 3,
+  "row1": [
+    {
+      "isBlock": true,
+      "name": "minecraft:tnt",
+      "metadata": 32767
+    },
+    "ingotIron",
+    {
+      "isBlock": true,
+      "name": "minecraft:tnt",
+      "metadata": 32767
+    }
+  ],
+  "row2": [
+    "ingotIron",
+    {
+      "isBlock": true,
+      "name": "minecraft:tnt",
+      "metadata": 32767
+    },
+    "ingotIron"
+  ],
+  "row3": [
+    {
+      "isBlock": true,
+      "name": "minecraft:tnt",
+      "metadata": 32767
+    },
+    "ingotIron",
+    {
+      "isBlock": true,
+      "name": "minecraft:tnt",
+      "metadata": 32767
+    }
+  ]
+}

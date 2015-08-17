@@ -1,0 +1,24 @@
+{
+  "output": "invisibility",
+  "width": 3,
+  "height": 3,
+  "row1": [
+    "ingotGold",
+    "ingotIron",
+    "ingotGold"
+  ],
+  "row2": [
+    "blockGlass",
+    {
+      "isBlock": false,
+      "name": "minecraft:fermented_spider_eye",
+      "metadata": 0
+    },
+    "blockGlass"
+  ],
+  "row3": [
+    "ingotGold",
+    "ingotIron",
+    "ingotGold"
+  ]
+}

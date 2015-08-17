@@ -1,0 +1,20 @@
+{
+  "output": "magnet",
+  "width": 3,
+  "height": 3,
+  "row1": [
+    "ingotGold",
+    null,
+    "ingotGold"
+  ],
+  "row2": [
+    "ingotIron",
+    null,
+    "ingotIron"
+  ],
+  "row3": [
+    null,
+    "ingotIron",
+    null
+  ]
+}

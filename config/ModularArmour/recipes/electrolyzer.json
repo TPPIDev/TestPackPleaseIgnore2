@@ -1,0 +1,20 @@
+{
+  "output": "electrolyzer",
+  "width": 3,
+  "height": 3,
+  "row1": [
+    "ingotIron",
+    "ingotIron",
+    "ingotIron"
+  ],
+  "row2": [
+    "blockGlass",
+    null,
+    "blockGlass"
+  ],
+  "row3": [
+    "ingotIron",
+    "ingotIron",
+    "ingotIron"
+  ]
+}

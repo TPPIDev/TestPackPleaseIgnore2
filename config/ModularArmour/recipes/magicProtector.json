@@ -1,0 +1,20 @@
+{
+  "output": "magicProtector",
+  "width": 3,
+  "height": 3,
+  "row1": [
+    "ingotGold",
+    "ingotIron",
+    "ingotGold"
+  ],
+  "row2": [
+    "ingotIron",
+    "ingotGold",
+    "ingotIron"
+  ],
+  "row3": [
+    "ingotGold",
+    "ingotIron",
+    "ingotGold"
+  ]
+}

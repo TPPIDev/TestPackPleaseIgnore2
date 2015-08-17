@@ -1,0 +1,28 @@
+{
+  "output": "speed",
+  "width": 3,
+  "height": 3,
+  "row1": [
+    {
+      "isBlock": true,
+      "name": "minecraft:piston",
+      "metadata": 32767
+    },
+    "ingotIron",
+    {
+      "isBlock": true,
+      "name": "minecraft:piston",
+      "metadata": 32767
+    }
+  ],
+  "row2": [
+    "ingotIron",
+    null,
+    "ingotIron"
+  ],
+  "row3": [
+    "ingotIron",
+    null,
+    "ingotIron"
+  ]
+}

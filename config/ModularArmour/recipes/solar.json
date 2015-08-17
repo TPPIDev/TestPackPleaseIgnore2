@@ -1,0 +1,24 @@
+{
+  "output": "solar",
+  "width": 3,
+  "height": 3,
+  "row1": [
+    "blockGlass",
+    "blockGlass",
+    "blockGlass"
+  ],
+  "row2": [
+    "ingotIron",
+    {
+      "isBlock": false,
+      "name": "minecraft:coal",
+      "metadata": 0
+    },
+    "ingotIron"
+  ],
+  "row3": [
+    "ingotIron",
+    "ingotIron",
+    "ingotIron"
+  ]
+}

@@ -1,0 +1,20 @@
+{
+  "output": "pixie",
+  "width": 3,
+  "height": 3,
+  "row1": [
+    "ingotManasteel",
+    "ingotElvenElementium",
+    "ingotManasteel"
+  ],
+  "row2": [
+    "ingotElvenElementium",
+    null,
+    "ingotElvenElementium"
+  ],
+  "row3": [
+    "ingotManasteel",
+    "ingotElvenElementium",
+    "ingotManasteel"
+  ]
+}

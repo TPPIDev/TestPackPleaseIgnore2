@@ -1,0 +1,52 @@
+{
+  "output": "visDiscount",
+  "width": 3,
+  "height": 3,
+  "row1": [
+    {
+      "isBlock": false,
+      "name": "Thaumcraft:ItemResource",
+      "metadata": 7
+    },
+    null,
+    {
+      "isBlock": false,
+      "name": "Thaumcraft:ItemResource",
+      "metadata": 7
+    }
+  ],
+  "row2": [
+    {
+      "isBlock": false,
+      "name": "Thaumcraft:ItemResource",
+      "metadata": 7
+    },
+    {
+      "isBlock": false,
+      "name": "Thaumcraft:ItemResource",
+      "metadata": 7
+    },
+    {
+      "isBlock": false,
+      "name": "Thaumcraft:ItemResource",
+      "metadata": 7
+    }
+  ],
+  "row3": [
+    {
+      "isBlock": false,
+      "name": "Thaumcraft:ItemResource",
+      "metadata": 7
+    },
+    {
+      "isBlock": false,
+      "name": "Thaumcraft:ItemResource",
+      "metadata": 7
+    },
+    {
+      "isBlock": false,
+      "name": "Thaumcraft:ItemResource",
+      "metadata": 7
+    }
+  ]
+}

@@ -1,0 +1,20 @@
+{
+  "output": "generalProtection",
+  "width": 3,
+  "height": 3,
+  "row1": [
+    "ingotIron",
+    null,
+    "ingotIron"
+  ],
+  "row2": [
+    "ingotIron",
+    "ingotIron",
+    "ingotIron"
+  ],
+  "row3": [
+    "ingotIron",
+    "ingotIron",
+    "ingotIron"
+  ]
+}

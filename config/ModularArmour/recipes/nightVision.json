@@ -1,0 +1,24 @@
+{
+  "output": "nightVision",
+  "width": 3,
+  "height": 3,
+  "row1": [
+    "ingotGold",
+    "ingotIron",
+    "ingotGold"
+  ],
+  "row2": [
+    "blockGlass",
+    {
+      "isBlock": false,
+      "name": "minecraft:golden_carrot",
+      "metadata": 0
+    },
+    "blockGlass"
+  ],
+  "row3": [
+    "ingotGold",
+    "ingotIron",
+    "ingotGold"
+  ]
+}

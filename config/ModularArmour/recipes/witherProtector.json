@@ -1,0 +1,48 @@
+{
+  "output": "witherProtector",
+  "width": 3,
+  "height": 3,
+  "row1": [
+    {
+      "isBlock": false,
+      "name": "minecraft:coal",
+      "metadata": 0
+    },
+    "ingotIron",
+    {
+      "isBlock": false,
+      "name": "minecraft:coal",
+      "metadata": 0
+    }
+  ],
+  "row2": [
+    {
+      "isBlock": false,
+      "name": "minecraft:coal",
+      "metadata": 0
+    },
+    {
+      "isBlock": false,
+      "name": "minecraft:skull",
+      "metadata": 0
+    },
+    {
+      "isBlock": false,
+      "name": "minecraft:coal",
+      "metadata": 0
+    }
+  ],
+  "row3": [
+    {
+      "isBlock": false,
+      "name": "minecraft:coal",
+      "metadata": 0
+    },
+    "ingotIron",
+    {
+      "isBlock": false,
+      "name": "minecraft:coal",
+      "metadata": 0
+    }
+  ]
+}

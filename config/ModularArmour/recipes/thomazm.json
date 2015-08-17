@@ -1,0 +1,52 @@
+{
+  "output": "thomazm",
+  "width": 3,
+  "height": 3,
+  "row1": [
+    {
+      "isBlock": true,
+      "name": "minecraft:wool",
+      "metadata": 32767
+    },
+    null,
+    {
+      "isBlock": true,
+      "name": "minecraft:wool",
+      "metadata": 32767
+    }
+  ],
+  "row2": [
+    {
+      "isBlock": true,
+      "name": "minecraft:wool",
+      "metadata": 32767
+    },
+    {
+      "isBlock": true,
+      "name": "minecraft:wool",
+      "metadata": 32767
+    },
+    {
+      "isBlock": true,
+      "name": "minecraft:wool",
+      "metadata": 32767
+    }
+  ],
+  "row3": [
+    {
+      "isBlock": true,
+      "name": "minecraft:wool",
+      "metadata": 32767
+    },
+    {
+      "isBlock": true,
+      "name": "minecraft:wool",
+      "metadata": 32767
+    },
+    {
+      "isBlock": true,
+      "name": "minecraft:wool",
+      "metadata": 32767
+    }
+  ]
+}

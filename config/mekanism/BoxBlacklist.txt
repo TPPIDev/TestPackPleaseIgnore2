@@ -3,9 +3,26 @@
 # stone:0
 
 # Vanilla
-minecraft:mob_spawner:*
-minecraft:wooden_door:*
-minecraft:iron_door:*
+minecraft:mob_spawner:0
+minecraft:mob_spawner:1
+minecraft:mob_spawner:2
+minecraft:mob_spawner:3
+minecraft:mob_spawner:4
+minecraft:mob_spawner:5
+minecraft:mob_spawner:6
+minecraft:mob_spawner:7
+minecraft:mob_spawner:8
+minecraft:mob_spawner:9
+minecraft:mob_spawner:10
+minecraft:mob_spawner:11
+minecraft:mob_spawner:12
+minecraft:mob_spawner:13
+minecraft:mob_spawner:14
+minecraft:mob_spawner:15
+minecraft:wooden_door:0
+minecraft:wooden_door:1
+minecraft:iron_door:0
+minecraft:iron_door:1
 minecraft:bed:0
 minecraft:bedrock:0
 minecraft:end_portal_frame:0
@@ -14,7 +31,11 @@ minecraft:end_portal_frame:0
 Thaumcraft:blockAiry:0
 Thaumcraft:blockWarded:0
 Thaumcraft:blockCosmeticOpaque:2
-Thaumcraft:blockTable:*
+Thaumcraft:blockTable:0
+Thaumcraft:blockTable:1
+Thaumcraft:blockTable:2
+Thaumcraft:blockTable:3
+Thaumcraft:blockTable:4
 Thaumcraft:blockStoneDevice:2
 Thaumcraft:blockStoneDevice:7
 
@@ -25,10 +46,14 @@ ThaumicHorizons:modMatrix:0
 ThaumicTinkerer:bedrockPortal:0
 
 # Thermal Expansion
-ThermalExpansion:Strongbox:*
+ThermalExpansion:Strongbox:0
+ThermalExpansion:Strongbox:1
+ThermalExpansion:Strongbox:2
+ThermalExpansion:Strongbox:3
+ThermalExpansion:Strongbox:4
 
 # OpenComputers
-OpenComputers:robot:*
+OpenComputers:robot:0
 
 
 # SuperMassiveTech
@@ -39,40 +64,101 @@ superMassiveTech:invisibleLight:0
 appliedenergistics2:tile.BlockDrive:0
 
 #Extra Utilities
-ExtraUtilities:dark_portal:*
+ExtraUtilities:dark_portal:0
+ExtraUtilities:dark_portal:2
 
 # Carpenters Blocks
-CarpentersBlocks:blockCarpentersSafe:*
-CarpentersBlocks:blockCarpentersDoor:*
-CarpentersBlocks:blockCarpentersBed:*
+CarpentersBlocks:blockCarpentersSafe:0
+CarpentersBlocks:blockCarpentersDoor:0
+CarpentersBlocks:blockCarpentersDoor:1
+CarpentersBlocks:blockCarpentersBed:0
+CarpentersBlocks:blockCarpentersBed:1
 
 # Industrialcraft 2
-IC2:blockPersonal:*
+IC2:blockPersonal:0
+IC2:blockPersonal:1
+IC2:blockPersonal:2
 
 # Twilight Forest
-TwilightForest:tile.TFBossSpawner:*
-TwilightForest:tile.TFTowerDevice:*
-TwilightForest:tile.TFTowerTranslucent:*
-
-# Thermal Expansion
-ThermalExpansion:Strongbox:*
+TwilightForest:tile.TFBossSpawner:0
+TwilightForest:tile.TFBossSpawner:1
+TwilightForest:tile.TFBossSpawner:2
+TwilightForest:tile.TFBossSpawner:3
+TwilightForest:tile.TFBossSpawner:4
+TwilightForest:tile.TFBossSpawner:5
+TwilightForest:tile.TFBossSpawner:6
+TwilightForest:tile.TFBossSpawner:7
+TwilightForest:tile.TFBossSpawner:8
+TwilightForest:tile.TFBossSpawner:9
+TwilightForest:tile.TFBossSpawner:10
+TwilightForest:tile.TFBossSpawner:11
+TwilightForest:tile.TFBossSpawner:12
+TwilightForest:tile.TFBossSpawner:13
+TwilightForest:tile.TFBossSpawner:14
+TwilightForest:tile.TFBossSpawner:15
+TwilightForest:tile.TFTowerDevice:0
+TwilightForest:tile.TFTowerDevice:1
+TwilightForest:tile.TFTowerDevice:2
+TwilightForest:tile.TFTowerDevice:3
+TwilightForest:tile.TFTowerDevice:4
+TwilightForest:tile.TFTowerDevice:5
+TwilightForest:tile.TFTowerDevice:6
+TwilightForest:tile.TFTowerDevice:7
+TwilightForest:tile.TFTowerDevice:8
+TwilightForest:tile.TFTowerDevice:9
+TwilightForest:tile.TFTowerDevice:10
+TwilightForest:tile.TFTowerDevice:11
+TwilightForest:tile.TFTowerDevice:12
+TwilightForest:tile.TFTowerTranslucent:0
+TwilightForest:tile.TFTowerTranslucent:1
+TwilightForest:tile.TFTowerTranslucent:2
+TwilightForest:tile.TFTowerTranslucent:3
+TwilightForest:tile.TFTowerTranslucent:4
+TwilightForest:tile.TFTowerTranslucent:5
+TwilightForest:tile.TFTowerTranslucent:6
+TwilightForest:tile.TFTowerTranslucent:7
+TwilightForest:tile.TFTowerTranslucent:8
+TwilightForest:tile.TFTowerTranslucent:9
+TwilightForest:tile.TFTowerTranslucent:10
+TwilightForest:tile.TFTowerTranslucent:11
+TwilightForest:tile.TFTowerTranslucent:12
+TwilightForest:tile.TFTowerTranslucent:13
+TwilightForest:tile.TFTowerTranslucent:14
+TwilightForest:tile.TFTowerTranslucent:15
 
 # Mystcraft
-Mystcraft:BlockDecay:*
-Mystcraft:BlockStarFissure:*
-Mystcraft:WritingDesk:*
-Mystcraft:BlockBookReceptacle:*
-Mystcraft:BlockBookstand:*
-Mystcraft:BlockLectern:*
+Mystcraft:BlockDecay:0
+Mystcraft:BlockStarFissure:0
+Mystcraft:WritingDesk:0
+Mystcraft:WritingDesk:1
+Mystcraft:BlockBookReceptacle:0
+Mystcraft:BlockBookstand:0
+Mystcraft:BlockLectern:0
 
 # BuildCraft
-BuildCraft|Core:EternalSpring:*
+BuildCraft|Core:EternalSpring:0
+BuildCraft|Core:EternalSpring:1
 
 # Hardcore Ender Expansion
-HardcoreEnderExpansion:instability_orb_ore:*
+HardcoreEnderExpansion:instability_orb_ore:0
 
 # RandomThings
-RandomThings:spectreBlock:*
+RandomThings:spectreBlock:0
+RandomThings:spectreBlock:1
+RandomThings:spectreBlock:2
+RandomThings:spectreBlock:3
+RandomThings:spectreBlock:4
+RandomThings:spectreBlock:5
+RandomThings:spectreBlock:6
+RandomThings:spectreBlock:7
+RandomThings:spectreBlock:8
+RandomThings:spectreBlock:9
+RandomThings:spectreBlock:10
+RandomThings:spectreBlock:11
+RandomThings:spectreBlock:12
+RandomThings:spectreBlock:13
+RandomThings:spectreBlock:14
+RandomThings:spectreBlock:15
 
 # Because Fako is Paranoid
 AWWayOfTime:demonPortalMain:0

@@ -1,0 +1,28 @@
+{
+  "output": "feeder",
+  "width": 3,
+  "height": 3,
+  "row1": [
+    "ingotIron",
+    {
+      "isBlock": false,
+      "name": "minecraft:golden_apple",
+      "metadata": 0
+    },
+    "ingotIron"
+  ],
+  "row2": [
+    "ingotIron",
+    {
+      "isBlock": false,
+      "name": "minecraft:golden_apple",
+      "metadata": 0
+    },
+    "ingotIron"
+  ],
+  "row3": [
+    "ingotIron",
+    "ingotIron",
+    "ingotIron"
+  ]
+}

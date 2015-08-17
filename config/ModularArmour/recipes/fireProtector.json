@@ -1,0 +1,56 @@
+{
+  "output": "fireProtector",
+  "width": 3,
+  "height": 3,
+  "row1": [
+    {
+      "isBlock": false,
+      "name": "minecraft:leather",
+      "metadata": 0
+    },
+    {
+      "isBlock": false,
+      "name": "minecraft:gold_ingot",
+      "metadata": 0
+    },
+    {
+      "isBlock": false,
+      "name": "minecraft:leather",
+      "metadata": 0
+    }
+  ],
+  "row2": [
+    {
+      "isBlock": false,
+      "name": "minecraft:leather",
+      "metadata": 0
+    },
+    {
+      "isBlock": false,
+      "name": "minecraft:gold_ingot",
+      "metadata": 0
+    },
+    {
+      "isBlock": false,
+      "name": "minecraft:leather",
+      "metadata": 0
+    }
+  ],
+  "row3": [
+    {
+      "isBlock": false,
+      "name": "minecraft:leather",
+      "metadata": 0
+    },
+    {
+      "isBlock": false,
+      "name": "minecraft:gold_ingot",
+      "metadata": 0
+    },
+    {
+      "isBlock": false,
+      "name": "minecraft:leather",
+      "metadata": 0
+    }
+  ]
+}

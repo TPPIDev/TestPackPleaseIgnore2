@@ -1,3 +1,33 @@
+TPPI2v0.2.0~
+- Too many mod updates to list. Almost everything was updated
+~
+- Added EnderCore
+~
+- Added Steve's Addons
+~~~
+- Removed ttCore
+~
+- Fixed all Mekanism tweaks
+~
+- Added a note on Compressed Diamonds/Obsidian.
+~~~
+- Fixed Angel Ring Recipe
+~
+- Fixed some broken IC2 recipes
+~
+- Blacklisted Pink Wither in MFR Autospawner
+~~~
+- Blocked DeepDark Portal from Cardboard Box
+~
+- Fixed Unifier Recipe
+~
+- Began shipping a default server.properties
+~~~
+- Added a new custom item for Soul Fragment crafting.
+~
+- Slightly tweaked the Imbued Control Circuit recipe.
+~
+- Fixed Mek CardboardBox blacklist not working correctly.
 TPPI2v0.1.5~
 - Update Logistics Pipes to stop a CTD
 ~
