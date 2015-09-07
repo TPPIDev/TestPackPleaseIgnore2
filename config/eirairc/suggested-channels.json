@@ -1,0 +1,16 @@
+[
+  {
+    "server": "irc.esper.net",
+    "channel": "#PlayTPPI",
+    "description": "This is the channel that all players connect to if they enable EiraIRC. Meant for general chat while playing.",
+    "modpack-display": "Test Pack Please Ignore (2)",
+    "recommended": true
+  },
+  {
+    "server": "irc.esper.net",
+    "channel": "#PlayTPPI",
+    "description": "This is the TestPackPleaseIgnore(2) support channel. Come here for support related issues.",
+    "modpack-display": "Test Pack Please Ignore (2)",
+    "recommended": true
+  }
+]

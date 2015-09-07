@@ -6,7 +6,8 @@
     "runAsOp": true,
     "requireAuth": false,
     "allowArgs": false,
-    "description": "Broadcasts the current TPS to the channel."
+    "outputFilter": "Dimension 0:.+",
+    "description": "Broadcasts the current TPS to the channel, filtering the output for the overworld only."
   },
   {
     "name": "players",
@@ -29,15 +30,6 @@
     "description": "Bans the specified player with an optional reason from the server. /ban \u003cname\u003e [reason ...]. Authed only."
   },
   {
-    "name": "ban-ip",
-    "command": "ban-ip",
-    "broadcastResult": false,
-    "runAsOp": true,
-    "requireAuth": true,
-    "allowArgs": true,
-    "description": "Bans the specified IP address with an optional reason from the server. /ban \u003caddress|name\u003e [reason ...]. Authed only."
-  },
-  {
     "name": "banlist",
     "command": "banlist",
     "broadcastResult": false,
@@ -54,14 +46,5 @@
     "requireAuth": true,
     "allowArgs": true,
     "description": "Unbans (pardons) the specified player on the server. /pardon \u003cname\u003e. Authed only."
-  },
-  {
-    "name": "pardon-ip",
-    "command": "pardon-ip",
-    "broadcastResult": false,
-    "runAsOp": true,
-    "requireAuth": true,
-    "allowArgs": true,
-    "description": "Unbans (pardons) the specified IP address on the server. /pardon-ip \u003caddress\u003e. Authed only."
   }
 ]
