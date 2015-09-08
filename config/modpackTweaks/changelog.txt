@@ -1,4 +1,9 @@
 TPPI2v0.2.0~
+- Fixed requirement of Java 8 (KitchenCraft)
+~
+- Fixed EnderIO conduit crash
+~~~
+TPPI2v0.2.0~
 - Too many mod updates to list. Almost everything was updated
 ~
 - Added EnderCore
