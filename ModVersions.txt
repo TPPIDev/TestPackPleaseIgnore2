@@ -33,10 +33,10 @@ CustomThings v0.0.3-38
 Damage Indicators v3.2.3
 Dense Ores v1.6.2
 Dimensional Anchors v59.0.3
-EiraIRC v2.9.376
+EiraIRC v2.9.387
 Electrical Age Beta v1.10-r50
 EnderCore v0.1.0.23-beta
-EnderIO v2.3.0.413-beta
+EnderIO v2.3.0.414-beta
 Ender Storage v1.4.7.36
 ExtraCells v2.2.73
 ExtraTiC v1.4.5
@@ -62,7 +62,7 @@ INpureCore v1.0.0B9-62
 Inventory Tweaks v1.59-dev-156
 Iron Chests 2 v6.0.62.742
 JABBA v1.2.1a
-KitchenCraft-combo v1.0.0-62
+KitchenCraft-combo v1.0.0-63
 Lib Sandstone v1.0.0
 Logistics Pipes v0.9.2.46
 LookingGlass v0.2.0.00

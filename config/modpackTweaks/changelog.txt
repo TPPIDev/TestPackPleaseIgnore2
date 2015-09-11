@@ -1,4 +1,12 @@
-TPPI2v0.2.0~
+TPPI2v0.2.2~
+- Fixed client crash with EiraIRC when updating pack. Fresh installs were unaffected.
+~
+- Re-enabled mod download GUI for Fastcraft.
+~~~
+- TPPITweaks is now built from the correct branch.
+~
+- Added KitchenCraft back into Server Jar.
+TPPI2v0.2.1~
 - Fixed requirement of Java 8 (KitchenCraft)
 ~
 - Fixed EnderIO conduit crash
