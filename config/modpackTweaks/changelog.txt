@@ -1,3 +1,10 @@
+TPPI2v0.2.4~
+- EndermanMiningAssistant doesn't accept LM portal anymore. Again.
+~
+- More unification of `dustWood` types.
+~
+- Fix a crash with Mekanism not checking for null NBT tags.
+~~~
 TPPI2v0.2.3~
 - Updated Sanguimancy to fix crash with BM rituals
 ~

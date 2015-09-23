@@ -70,7 +70,7 @@ Magic Bees v2.2.5
 Malisis Core v0.12.9
 Malisis Doors 1.9.5
 Mantle v0.3.2.188
-Mekanism v8.1.7.TPPI
+Mekanism v8.1.7.TPPI-4
 Mekanism Generators v8.1.7.252
 MineFactory Reloaded v2.8.0-104
 MineTweaker 3 v3.0.9C
@@ -120,7 +120,7 @@ Tinkers Construct v1.8.7-979
 Tinkers Mechworks v0.2.14.100
 Tinkers Steelworks v1.1.1-17
 Tinkers Tooltips v1.2.4
-TPPI-Tweaks v1.2.0-118
+TPPI-Tweaks v1.2.0-121
 Translocators v1.1.2.15
 Twilight Forest v2.3.7
 Waila v1.5.10
