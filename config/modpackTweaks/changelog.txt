@@ -1,3 +1,22 @@
+TPPI2v0.2.3~
+- Updated Sanguimancy to fix crash with BM rituals
+~
+- Downgraded Minetweaker to fix desync issue
+~
+- Re-disable EnderIO's "replaceWitherSkeletons" config option.
+~~~
+- EiraIRC now uploads to Imgur correctly out of the box.
+~
+- ServerStart scripts now start with 4Gb RAM
+~
+- Disabled ExtraTiC ThermalFoundation support due to OP values
+~~~
+- Standard Mekanism Atomic Alloy recipe re-disabled
+~
+- ThermalExpansion Sawdust recipe now uses OreDict
+~
+- Compressed Sawdust recipe uses correct meta
+~~~
 TPPI2v0.2.2~
 - Fixed client crash with EiraIRC when updating pack. Fresh installs were unaffected.
 ~
@@ -6,6 +25,7 @@ TPPI2v0.2.2~
 - TPPITweaks is now built from the correct branch.
 ~
 - Added KitchenCraft back into Server Jar.
+~~~
 TPPI2v0.2.1~
 - Fixed requirement of Java 8 (KitchenCraft)
 ~

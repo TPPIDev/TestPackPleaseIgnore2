@@ -73,7 +73,7 @@ Mantle v0.3.2.188
 Mekanism v8.1.7.TPPI
 Mekanism Generators v8.1.7.252
 MineFactory Reloaded v2.8.0-104
-MineTweaker 3 v3.0.10
+MineTweaker 3 v3.0.9C
 MmmMmmMmmMmm v1.6
 Mobius Core v1.2.5
 ModpackTweaks v1.2.0-26
@@ -100,7 +100,7 @@ Redstone Armory v1.2.0-38
 Redstone Arsenal v1.1.1-89
 Refined Relocation v1.0.8a
 Reliquary v1.2.257
-Sanguimancy v1.1.9-32
+Sanguimancy v1.1.9-33
 ServerTools BACKUP v2.2.1.24
 ServerTools CORE v2.2.0.79
 StevesAddons v0.10.16
