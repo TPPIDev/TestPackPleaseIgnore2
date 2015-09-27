@@ -5,6 +5,8 @@ TPPI2v0.2.4~
 ~
 - Fix a crash with Mekanism not checking for null NBT tags.
 ~~~
+- Fixed a Malisis Doors crash
+~~~
 TPPI2v0.2.3~
 - Updated Sanguimancy to fix crash with BM rituals
 ~
