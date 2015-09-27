@@ -8,6 +8,8 @@ TPPI2v0.2.4~
 - Fixed a Malisis Doors crash
 ~
 - Fixed Nightvision Goggles not being craftable
+~
+- Updated Minetweaker to new version since it's fixed now
 ~~~
 TPPI2v0.2.3~
 - Updated Sanguimancy to fix crash with BM rituals

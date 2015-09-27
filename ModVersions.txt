@@ -73,7 +73,7 @@ Mantle v0.3.2.188
 Mekanism v8.1.7.TPPI-4
 Mekanism Generators v8.1.7.252
 MineFactory Reloaded v2.8.0-104
-MineTweaker 3 v3.0.9C
+MineTweaker 3 v3.0.10B
 MmmMmmMmmMmm v1.6
 Mobius Core v1.2.5
 ModpackTweaks v1.2.0-26
@@ -120,7 +120,7 @@ Tinkers Construct v1.8.7-979
 Tinkers Mechworks v0.2.14.100
 Tinkers Steelworks v1.1.1-17
 Tinkers Tooltips v1.2.4
-TPPI-Tweaks v1.2.0-121
+TPPI-Tweaks v1.2.0-122
 Translocators v1.1.2.15
 Twilight Forest v2.3.7
 Waila v1.5.10
