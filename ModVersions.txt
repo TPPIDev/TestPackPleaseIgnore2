@@ -35,9 +35,9 @@ Dense Ores v1.6.2
 Dimensional Anchors v59.0.3
 EiraIRC v2.9.387
 Electrical Age Beta v1.10-r50
-EnderCore v0.1.0.23-beta
-EnderIO v2.3.0.414-beta
-Ender Storage v1.4.7.36
+EnderCore v0.1.0.26-beta
+EnderIO v2.3.0.417-beta
+Ender Storage v1.4.7.37
 ExtraCells v2.2.73
 ExtraTiC v1.4.5
 Extra Utilities v1.2.11
@@ -70,7 +70,7 @@ Magic Bees v2.2.5
 Malisis Core v0.12.9
 Malisis Doors 1.9.5
 Mantle v0.3.2.188
-Mekanism v8.1.7.TPPI-4
+Mekanism v8.1.7.TPPI-5
 Mekanism Generators v8.1.7.252
 MineFactory Reloaded v2.8.0-104
 MineTweaker 3 v3.0.10B
@@ -87,7 +87,7 @@ NEI Addons v1.12.12.37
 NEI Integration v1.0.12
 Nether Ores v2.3.1-18
 Not Enough Codecs v0.3-13
-Not Enough Items v1.0.5.111
+Not Enough Items v1.0.5.118
 Open Blocks v1.4.4-snapshot-665
 Open Computers v1.5.16.726-dev
 Open Eye v0.6-snapshot-145
@@ -120,7 +120,7 @@ Tinkers Construct v1.8.7-979
 Tinkers Mechworks v0.2.14.100
 Tinkers Steelworks v1.1.1-17
 Tinkers Tooltips v1.2.4
-TPPI-Tweaks v1.2.0-122
+TPPI-Tweaks v1.2.0-123
 Translocators v1.1.2.15
 Twilight Forest v2.3.7
 Waila v1.5.10
